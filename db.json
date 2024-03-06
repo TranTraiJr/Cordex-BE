@@ -4,4855 +4,4855 @@
       "id": 1,
       "name": "bulbasaur",
       "types": ["grass", "poison"],
-      "url": "http://localhost:5000/images/bulbasaur.png"
+      "url": "https://cordex-be.onrender.com/images/bulbasaur.png"
     },
     {
       "id": 2,
       "name": "ivysaur",
       "types": ["grass", "poison"],
-      "url": "http://localhost:5000/images/ivysaur.png"
+      "url": "https://cordex-be.onrender.com/images/ivysaur.png"
     },
     {
       "id": 3,
       "name": "venusaur",
       "types": ["grass", "poison"],
-      "url": "http://localhost:5000/images/venusaur.png"
+      "url": "https://cordex-be.onrender.com/images/venusaur.png"
     },
     {
       "id": 4,
       "name": "charmander",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/charmander.png"
+      "url": "https://cordex-be.onrender.com/images/charmander.png"
     },
     {
       "id": 5,
       "name": "charmeleon",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/charmeleon.png"
+      "url": "https://cordex-be.onrender.com/images/charmeleon.png"
     },
     {
       "id": 6,
       "name": "charizard",
       "types": ["fire", "flying"],
-      "url": "http://localhost:5000/images/charizard.png"
+      "url": "https://cordex-be.onrender.com/images/charizard.png"
     },
     {
       "id": 7,
       "name": "squirtle",
       "types": ["water"],
-      "url": "http://localhost:5000/images/squirtle.png"
+      "url": "https://cordex-be.onrender.com/images/squirtle.png"
     },
     {
       "id": 8,
       "name": "wartortle",
       "types": ["water"],
-      "url": "http://localhost:5000/images/wartortle.png"
+      "url": "https://cordex-be.onrender.com/images/wartortle.png"
     },
     {
       "id": 9,
       "name": "blastoise",
       "types": ["water"],
-      "url": "http://localhost:5000/images/blastoise.png"
+      "url": "https://cordex-be.onrender.com/images/blastoise.png"
     },
     {
       "id": 10,
       "name": "caterpie",
       "types": ["bug"],
-      "url": "http://localhost:5000/images/caterpie.png"
+      "url": "https://cordex-be.onrender.com/images/caterpie.png"
     },
     {
       "id": 11,
       "name": "metapod",
       "types": ["bug"],
-      "url": "http://localhost:5000/images/metapod.png"
+      "url": "https://cordex-be.onrender.com/images/metapod.png"
     },
     {
       "id": 12,
       "name": "butterfree",
       "types": ["bug", "flying"],
-      "url": "http://localhost:5000/images/butterfree.png"
+      "url": "https://cordex-be.onrender.com/images/butterfree.png"
     },
     {
       "id": 13,
       "name": "weedle",
       "types": ["bug", "poison"],
-      "url": "http://localhost:5000/images/weedle.png"
+      "url": "https://cordex-be.onrender.com/images/weedle.png"
     },
     {
       "id": 14,
       "name": "kakuna",
       "types": ["bug", "poison"],
-      "url": "http://localhost:5000/images/kakuna.png"
+      "url": "https://cordex-be.onrender.com/images/kakuna.png"
     },
     {
       "id": 15,
       "name": "beedrill",
       "types": ["bug", "poison"],
-      "url": "http://localhost:5000/images/beedrill.png"
+      "url": "https://cordex-be.onrender.com/images/beedrill.png"
     },
     {
       "id": 16,
       "name": "pidgey",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/pidgey.png"
+      "url": "https://cordex-be.onrender.com/images/pidgey.png"
     },
     {
       "id": 17,
       "name": "pidgeotto",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/pidgeotto.png"
+      "url": "https://cordex-be.onrender.com/images/pidgeotto.png"
     },
     {
       "id": 18,
       "name": "pidgeot",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/pidgeot.png"
+      "url": "https://cordex-be.onrender.com/images/pidgeot.png"
     },
     {
       "id": 19,
       "name": "rattata",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/rattata.png"
+      "url": "https://cordex-be.onrender.com/images/rattata.png"
     },
     {
       "id": 20,
       "name": "raticate",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/raticate.png"
+      "url": "https://cordex-be.onrender.com/images/raticate.png"
     },
     {
       "id": 21,
       "name": "spearow",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/spearow.png"
+      "url": "https://cordex-be.onrender.com/images/spearow.png"
     },
     {
       "id": 22,
       "name": "fearow",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/fearow.png"
+      "url": "https://cordex-be.onrender.com/images/fearow.png"
     },
     {
       "id": 23,
       "name": "ekans",
       "types": ["poison"],
-      "url": "http://localhost:5000/images/ekans.png"
+      "url": "https://cordex-be.onrender.com/images/ekans.png"
     },
     {
       "id": 24,
       "name": "arbok",
       "types": ["poison"],
-      "url": "http://localhost:5000/images/arbok.png"
+      "url": "https://cordex-be.onrender.com/images/arbok.png"
     },
     {
       "id": 25,
       "name": "pikachu",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/pikachu.png"
+      "url": "https://cordex-be.onrender.com/images/pikachu.png"
     },
     {
       "id": 26,
       "name": "raichu",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/raichu.png"
+      "url": "https://cordex-be.onrender.com/images/raichu.png"
     },
     {
       "id": 27,
       "name": "sandshrew",
       "types": ["ground"],
-      "url": "http://localhost:5000/images/sandshrew.png"
+      "url": "https://cordex-be.onrender.com/images/sandshrew.png"
     },
     {
       "id": 28,
       "name": "sandslash",
       "types": ["ground"],
-      "url": "http://localhost:5000/images/sandslash.png"
+      "url": "https://cordex-be.onrender.com/images/sandslash.png"
     },
     {
       "id": 29,
       "name": "nidoran-f",
       "types": ["poison"],
-      "url": "http://localhost:5000/images/nidoran-f.png"
+      "url": "https://cordex-be.onrender.com/images/nidoran-f.png"
     },
     {
       "id": 30,
       "name": "nidorina",
       "types": ["poison"],
-      "url": "http://localhost:5000/images/nidorina.png"
+      "url": "https://cordex-be.onrender.com/images/nidorina.png"
     },
     {
       "id": 31,
       "name": "nidoqueen",
       "types": ["poison", "ground"],
-      "url": "http://localhost:5000/images/nidoqueen.png"
+      "url": "https://cordex-be.onrender.com/images/nidoqueen.png"
     },
     {
       "id": 32,
       "name": "nidoran-m",
       "types": ["poison"],
-      "url": "http://localhost:5000/images/nidoran-m.png"
+      "url": "https://cordex-be.onrender.com/images/nidoran-m.png"
     },
     {
       "id": 33,
       "name": "nidorino",
       "types": ["poison"],
-      "url": "http://localhost:5000/images/nidorino.png"
+      "url": "https://cordex-be.onrender.com/images/nidorino.png"
     },
     {
       "id": 34,
       "name": "nidoking",
       "types": ["poison", "ground"],
-      "url": "http://localhost:5000/images/nidoking.png"
+      "url": "https://cordex-be.onrender.com/images/nidoking.png"
     },
     {
       "id": 35,
       "name": "clefairy",
       "types": ["fairy"],
-      "url": "http://localhost:5000/images/clefairy.png"
+      "url": "https://cordex-be.onrender.com/images/clefairy.png"
     },
     {
       "id": 36,
       "name": "clefable",
       "types": ["fairy"],
-      "url": "http://localhost:5000/images/clefable.png"
+      "url": "https://cordex-be.onrender.com/images/clefable.png"
     },
     {
       "id": 37,
       "name": "vulpix",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/vulpix.png"
+      "url": "https://cordex-be.onrender.com/images/vulpix.png"
     },
     {
       "id": 38,
       "name": "ninetales",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/ninetales.png"
+      "url": "https://cordex-be.onrender.com/images/ninetales.png"
     },
     {
       "id": 39,
       "name": "jigglypuff",
       "types": ["normal", "fairy"],
-      "url": "http://localhost:5000/images/jigglypuff.png"
+      "url": "https://cordex-be.onrender.com/images/jigglypuff.png"
     },
     {
       "id": 40,
       "name": "wigglytuff",
       "types": ["normal", "fairy"],
-      "url": "http://localhost:5000/images/wigglytuff.png"
+      "url": "https://cordex-be.onrender.com/images/wigglytuff.png"
     },
     {
       "id": 41,
       "name": "zubat",
       "types": ["poison", "flying"],
-      "url": "http://localhost:5000/images/zubat.png"
+      "url": "https://cordex-be.onrender.com/images/zubat.png"
     },
     {
       "id": 42,
       "name": "golbat",
       "types": ["poison", "flying"],
-      "url": "http://localhost:5000/images/golbat.png"
+      "url": "https://cordex-be.onrender.com/images/golbat.png"
     },
     {
       "id": 43,
       "name": "oddish",
       "types": ["grass", "poison"],
-      "url": "http://localhost:5000/images/oddish.png"
+      "url": "https://cordex-be.onrender.com/images/oddish.png"
     },
     {
       "id": 44,
       "name": "gloom",
       "types": ["grass", "poison"],
-      "url": "http://localhost:5000/images/gloom.png"
+      "url": "https://cordex-be.onrender.com/images/gloom.png"
     },
     {
       "id": 45,
       "name": "vileplume",
       "types": ["grass", "poison"],
-      "url": "http://localhost:5000/images/vileplume.png"
+      "url": "https://cordex-be.onrender.com/images/vileplume.png"
     },
     {
       "id": 46,
       "name": "paras",
       "types": ["bug", "grass"],
-      "url": "http://localhost:5000/images/paras.png"
+      "url": "https://cordex-be.onrender.com/images/paras.png"
     },
     {
       "id": 47,
       "name": "parasect",
       "types": ["bug", "grass"],
-      "url": "http://localhost:5000/images/parasect.png"
+      "url": "https://cordex-be.onrender.com/images/parasect.png"
     },
     {
       "id": 48,
       "name": "venonat",
       "types": ["bug", "poison"],
-      "url": "http://localhost:5000/images/venonat.png"
+      "url": "https://cordex-be.onrender.com/images/venonat.png"
     },
     {
       "id": 49,
       "name": "venomoth",
       "types": ["bug", "poison"],
-      "url": "http://localhost:5000/images/venomoth.png"
+      "url": "https://cordex-be.onrender.com/images/venomoth.png"
     },
     {
       "id": 50,
       "name": "diglett",
       "types": ["ground"],
-      "url": "http://localhost:5000/images/diglett.png"
+      "url": "https://cordex-be.onrender.com/images/diglett.png"
     },
     {
       "id": 51,
       "name": "dugtrio",
       "types": ["ground"],
-      "url": "http://localhost:5000/images/dugtrio.png"
+      "url": "https://cordex-be.onrender.com/images/dugtrio.png"
     },
     {
       "id": 52,
       "name": "meowth",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/meowth.png"
+      "url": "https://cordex-be.onrender.com/images/meowth.png"
     },
     {
       "id": 53,
       "name": "persian",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/persian.png"
+      "url": "https://cordex-be.onrender.com/images/persian.png"
     },
     {
       "id": 54,
       "name": "psyduck",
       "types": ["water"],
-      "url": "http://localhost:5000/images/psyduck.png"
+      "url": "https://cordex-be.onrender.com/images/psyduck.png"
     },
     {
       "id": 55,
       "name": "golduck",
       "types": ["water"],
-      "url": "http://localhost:5000/images/golduck.png"
+      "url": "https://cordex-be.onrender.com/images/golduck.png"
     },
     {
       "id": 56,
       "name": "mankey",
       "types": ["fighting"],
-      "url": "http://localhost:5000/images/mankey.png"
+      "url": "https://cordex-be.onrender.com/images/mankey.png"
     },
     {
       "id": 57,
       "name": "primeape",
       "types": ["fighting"],
-      "url": "http://localhost:5000/images/primeape.png"
+      "url": "https://cordex-be.onrender.com/images/primeape.png"
     },
     {
       "id": 58,
       "name": "growlithe",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/growlithe.png"
+      "url": "https://cordex-be.onrender.com/images/growlithe.png"
     },
     {
       "id": 59,
       "name": "arcanine",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/arcanine.png"
+      "url": "https://cordex-be.onrender.com/images/arcanine.png"
     },
     {
       "id": 60,
       "name": "poliwag",
       "types": ["water"],
-      "url": "http://localhost:5000/images/poliwag.png"
+      "url": "https://cordex-be.onrender.com/images/poliwag.png"
     },
     {
       "id": 61,
       "name": "poliwhirl",
       "types": ["water"],
-      "url": "http://localhost:5000/images/poliwhirl.png"
+      "url": "https://cordex-be.onrender.com/images/poliwhirl.png"
     },
     {
       "id": 62,
       "name": "poliwrath",
       "types": ["water", "fighting"],
-      "url": "http://localhost:5000/images/poliwrath.png"
+      "url": "https://cordex-be.onrender.com/images/poliwrath.png"
     },
     {
       "id": 63,
       "name": "abra",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/abra.png"
+      "url": "https://cordex-be.onrender.com/images/abra.png"
     },
     {
       "id": 64,
       "name": "kadabra",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/kadabra.png"
+      "url": "https://cordex-be.onrender.com/images/kadabra.png"
     },
     {
       "id": 65,
       "name": "alakazam",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/alakazam.png"
+      "url": "https://cordex-be.onrender.com/images/alakazam.png"
     },
     {
       "id": 66,
       "name": "machop",
       "types": ["fighting"],
-      "url": "http://localhost:5000/images/machop.png"
+      "url": "https://cordex-be.onrender.com/images/machop.png"
     },
     {
       "id": 67,
       "name": "machoke",
       "types": ["fighting"],
-      "url": "http://localhost:5000/images/machoke.png"
+      "url": "https://cordex-be.onrender.com/images/machoke.png"
     },
     {
       "id": 68,
       "name": "machamp",
       "types": ["fighting"],
-      "url": "http://localhost:5000/images/machamp.png"
+      "url": "https://cordex-be.onrender.com/images/machamp.png"
     },
     {
       "id": 69,
       "name": "bellsprout",
       "types": ["grass", "poison"],
-      "url": "http://localhost:5000/images/bellsprout.png"
+      "url": "https://cordex-be.onrender.com/images/bellsprout.png"
     },
     {
       "id": 70,
       "name": "weepinbell",
       "types": ["grass", "poison"],
-      "url": "http://localhost:5000/images/weepinbell.png"
+      "url": "https://cordex-be.onrender.com/images/weepinbell.png"
     },
     {
       "id": 71,
       "name": "victreebel",
       "types": ["grass", "poison"],
-      "url": "http://localhost:5000/images/victreebel.png"
+      "url": "https://cordex-be.onrender.com/images/victreebel.png"
     },
     {
       "id": 72,
       "name": "tentacool",
       "types": ["water", "poison"],
-      "url": "http://localhost:5000/images/tentacool.png"
+      "url": "https://cordex-be.onrender.com/images/tentacool.png"
     },
     {
       "id": 73,
       "name": "tentacruel",
       "types": ["water", "poison"],
-      "url": "http://localhost:5000/images/tentacruel.png"
+      "url": "https://cordex-be.onrender.com/images/tentacruel.png"
     },
     {
       "id": 74,
       "name": "geodude",
       "types": ["rock", "ground"],
-      "url": "http://localhost:5000/images/geodude.png"
+      "url": "https://cordex-be.onrender.com/images/geodude.png"
     },
     {
       "id": 75,
       "name": "graveler",
       "types": ["rock", "ground"],
-      "url": "http://localhost:5000/images/graveler.png"
+      "url": "https://cordex-be.onrender.com/images/graveler.png"
     },
     {
       "id": 76,
       "name": "golem",
       "types": ["rock", "ground"],
-      "url": "http://localhost:5000/images/golem.png"
+      "url": "https://cordex-be.onrender.com/images/golem.png"
     },
     {
       "id": 77,
       "name": "ponyta",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/ponyta.png"
+      "url": "https://cordex-be.onrender.com/images/ponyta.png"
     },
     {
       "id": 78,
       "name": "rapidash",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/rapidash.png"
+      "url": "https://cordex-be.onrender.com/images/rapidash.png"
     },
     {
       "id": 79,
       "name": "slowpoke",
       "types": ["water", "psychic"],
-      "url": "http://localhost:5000/images/slowpoke.png"
+      "url": "https://cordex-be.onrender.com/images/slowpoke.png"
     },
     {
       "id": 80,
       "name": "slowbro",
       "types": ["water", "psychic"],
-      "url": "http://localhost:5000/images/slowbro.png"
+      "url": "https://cordex-be.onrender.com/images/slowbro.png"
     },
     {
       "id": 81,
       "name": "magnemite",
       "types": ["electric", "steel"],
-      "url": "http://localhost:5000/images/magnemite.png"
+      "url": "https://cordex-be.onrender.com/images/magnemite.png"
     },
     {
       "id": 82,
       "name": "magneton",
       "types": ["electric", "steel"],
-      "url": "http://localhost:5000/images/magneton.png"
+      "url": "https://cordex-be.onrender.com/images/magneton.png"
     },
     {
       "id": 83,
       "name": "farfetchd",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/farfetchd.png"
+      "url": "https://cordex-be.onrender.com/images/farfetchd.png"
     },
     {
       "id": 84,
       "name": "doduo",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/doduo.png"
+      "url": "https://cordex-be.onrender.com/images/doduo.png"
     },
     {
       "id": 85,
       "name": "dodrio",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/dodrio.png"
+      "url": "https://cordex-be.onrender.com/images/dodrio.png"
     },
     {
       "id": 86,
       "name": "seel",
       "types": ["water"],
-      "url": "http://localhost:5000/images/seel.png"
+      "url": "https://cordex-be.onrender.com/images/seel.png"
     },
     {
       "id": 87,
       "name": "dewgong",
       "types": ["water", "ice"],
-      "url": "http://localhost:5000/images/dewgong.png"
+      "url": "https://cordex-be.onrender.com/images/dewgong.png"
     },
     {
       "id": 88,
       "name": "grimer",
       "types": ["poison"],
-      "url": "http://localhost:5000/images/grimer.png"
+      "url": "https://cordex-be.onrender.com/images/grimer.png"
     },
     {
       "id": 89,
       "name": "muk",
       "types": ["poison"],
-      "url": "http://localhost:5000/images/muk.png"
+      "url": "https://cordex-be.onrender.com/images/muk.png"
     },
     {
       "id": 90,
       "name": "shellder",
       "types": ["water"],
-      "url": "http://localhost:5000/images/shellder.png"
+      "url": "https://cordex-be.onrender.com/images/shellder.png"
     },
     {
       "id": 91,
       "name": "cloyster",
       "types": ["water", "ice"],
-      "url": "http://localhost:5000/images/cloyster.png"
+      "url": "https://cordex-be.onrender.com/images/cloyster.png"
     },
     {
       "id": 92,
       "name": "gastly",
       "types": ["ghost", "poison"],
-      "url": "http://localhost:5000/images/gastly.png"
+      "url": "https://cordex-be.onrender.com/images/gastly.png"
     },
     {
       "id": 93,
       "name": "haunter",
       "types": ["ghost", "poison"],
-      "url": "http://localhost:5000/images/haunter.png"
+      "url": "https://cordex-be.onrender.com/images/haunter.png"
     },
     {
       "id": 94,
       "name": "gengar",
       "types": ["ghost", "poison"],
-      "url": "http://localhost:5000/images/gengar.png"
+      "url": "https://cordex-be.onrender.com/images/gengar.png"
     },
     {
       "id": 95,
       "name": "onix",
       "types": ["rock", "ground"],
-      "url": "http://localhost:5000/images/onix.png"
+      "url": "https://cordex-be.onrender.com/images/onix.png"
     },
     {
       "id": 96,
       "name": "drowzee",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/drowzee.png"
+      "url": "https://cordex-be.onrender.com/images/drowzee.png"
     },
     {
       "id": 97,
       "name": "hypno",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/hypno.png"
+      "url": "https://cordex-be.onrender.com/images/hypno.png"
     },
     {
       "id": 98,
       "name": "krabby",
       "types": ["water"],
-      "url": "http://localhost:5000/images/krabby.png"
+      "url": "https://cordex-be.onrender.com/images/krabby.png"
     },
     {
       "id": 99,
       "name": "kingler",
       "types": ["water"],
-      "url": "http://localhost:5000/images/kingler.png"
+      "url": "https://cordex-be.onrender.com/images/kingler.png"
     },
     {
       "id": 100,
       "name": "voltorb",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/voltorb.png"
+      "url": "https://cordex-be.onrender.com/images/voltorb.png"
     },
     {
       "id": 101,
       "name": "electrode",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/electrode.png"
+      "url": "https://cordex-be.onrender.com/images/electrode.png"
     },
     {
       "id": 102,
       "name": "exeggcute",
       "types": ["grass", "psychic"],
-      "url": "http://localhost:5000/images/exeggcute.png"
+      "url": "https://cordex-be.onrender.com/images/exeggcute.png"
     },
     {
       "id": 103,
       "name": "exeggutor",
       "types": ["grass", "psychic"],
-      "url": "http://localhost:5000/images/exeggutor.png"
+      "url": "https://cordex-be.onrender.com/images/exeggutor.png"
     },
     {
       "id": 104,
       "name": "cubone",
       "types": ["ground"],
-      "url": "http://localhost:5000/images/cubone.png"
+      "url": "https://cordex-be.onrender.com/images/cubone.png"
     },
     {
       "id": 105,
       "name": "marowak",
       "types": ["ground"],
-      "url": "http://localhost:5000/images/marowak.png"
+      "url": "https://cordex-be.onrender.com/images/marowak.png"
     },
     {
       "id": 106,
       "name": "hitmonlee",
       "types": ["fighting"],
-      "url": "http://localhost:5000/images/hitmonlee.png"
+      "url": "https://cordex-be.onrender.com/images/hitmonlee.png"
     },
     {
       "id": 107,
       "name": "hitmonchan",
       "types": ["fighting"],
-      "url": "http://localhost:5000/images/hitmonchan.png"
+      "url": "https://cordex-be.onrender.com/images/hitmonchan.png"
     },
     {
       "id": 108,
       "name": "lickitung",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/lickitung.png"
+      "url": "https://cordex-be.onrender.com/images/lickitung.png"
     },
     {
       "id": 109,
       "name": "koffing",
       "types": ["poison"],
-      "url": "http://localhost:5000/images/koffing.png"
+      "url": "https://cordex-be.onrender.com/images/koffing.png"
     },
     {
       "id": 110,
       "name": "weezing",
       "types": ["poison"],
-      "url": "http://localhost:5000/images/weezing.png"
+      "url": "https://cordex-be.onrender.com/images/weezing.png"
     },
     {
       "id": 111,
       "name": "rhyhorn",
       "types": ["ground", "rock"],
-      "url": "http://localhost:5000/images/rhyhorn.png"
+      "url": "https://cordex-be.onrender.com/images/rhyhorn.png"
     },
     {
       "id": 112,
       "name": "rhydon",
       "types": ["ground", "rock"],
-      "url": "http://localhost:5000/images/rhydon.png"
+      "url": "https://cordex-be.onrender.com/images/rhydon.png"
     },
     {
       "id": 113,
       "name": "chansey",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/chansey.png"
+      "url": "https://cordex-be.onrender.com/images/chansey.png"
     },
     {
       "id": 114,
       "name": "tangela",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/tangela.png"
+      "url": "https://cordex-be.onrender.com/images/tangela.png"
     },
     {
       "id": 115,
       "name": "kangaskhan",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/kangaskhan.png"
+      "url": "https://cordex-be.onrender.com/images/kangaskhan.png"
     },
     {
       "id": 116,
       "name": "horsea",
       "types": ["water"],
-      "url": "http://localhost:5000/images/horsea.png"
+      "url": "https://cordex-be.onrender.com/images/horsea.png"
     },
     {
       "id": 117,
       "name": "seadra",
       "types": ["water"],
-      "url": "http://localhost:5000/images/seadra.png"
+      "url": "https://cordex-be.onrender.com/images/seadra.png"
     },
     {
       "id": 118,
       "name": "goldeen",
       "types": ["water"],
-      "url": "http://localhost:5000/images/goldeen.png"
+      "url": "https://cordex-be.onrender.com/images/goldeen.png"
     },
     {
       "id": 119,
       "name": "seaking",
       "types": ["water"],
-      "url": "http://localhost:5000/images/seaking.png"
+      "url": "https://cordex-be.onrender.com/images/seaking.png"
     },
     {
       "id": 120,
       "name": "staryu",
       "types": ["water"],
-      "url": "http://localhost:5000/images/staryu.png"
+      "url": "https://cordex-be.onrender.com/images/staryu.png"
     },
     {
       "id": 121,
       "name": "starmie",
       "types": ["water", "psychic"],
-      "url": "http://localhost:5000/images/starmie.png"
+      "url": "https://cordex-be.onrender.com/images/starmie.png"
     },
     {
       "id": 122,
       "name": "mr-mime",
       "types": ["psychic", "fairy"],
-      "url": "http://localhost:5000/images/mr-mime.png"
+      "url": "https://cordex-be.onrender.com/images/mr-mime.png"
     },
     {
       "id": 123,
       "name": "scyther",
       "types": ["bug", "flying"],
-      "url": "http://localhost:5000/images/scyther.png"
+      "url": "https://cordex-be.onrender.com/images/scyther.png"
     },
     {
       "id": 124,
       "name": "jynx",
       "types": ["ice", "psychic"],
-      "url": "http://localhost:5000/images/jynx.png"
+      "url": "https://cordex-be.onrender.com/images/jynx.png"
     },
     {
       "id": 125,
       "name": "electabuzz",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/electabuzz.png"
+      "url": "https://cordex-be.onrender.com/images/electabuzz.png"
     },
     {
       "id": 126,
       "name": "magmar",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/magmar.png"
+      "url": "https://cordex-be.onrender.com/images/magmar.png"
     },
     {
       "id": 127,
       "name": "pinsir",
       "types": ["bug"],
-      "url": "http://localhost:5000/images/pinsir.png"
+      "url": "https://cordex-be.onrender.com/images/pinsir.png"
     },
     {
       "id": 128,
       "name": "tauros",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/tauros.png"
+      "url": "https://cordex-be.onrender.com/images/tauros.png"
     },
     {
       "id": 129,
       "name": "magikarp",
       "types": ["water"],
-      "url": "http://localhost:5000/images/magikarp.png"
+      "url": "https://cordex-be.onrender.com/images/magikarp.png"
     },
     {
       "id": 130,
       "name": "gyarados",
       "types": ["water", "flying"],
-      "url": "http://localhost:5000/images/gyarados.png"
+      "url": "https://cordex-be.onrender.com/images/gyarados.png"
     },
     {
       "id": 131,
       "name": "lapras",
       "types": ["water", "ice"],
-      "url": "http://localhost:5000/images/lapras.png"
+      "url": "https://cordex-be.onrender.com/images/lapras.png"
     },
     {
       "id": 132,
       "name": "ditto",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/ditto.png"
+      "url": "https://cordex-be.onrender.com/images/ditto.png"
     },
     {
       "id": 133,
       "name": "eevee",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/eevee.png"
+      "url": "https://cordex-be.onrender.com/images/eevee.png"
     },
     {
       "id": 134,
       "name": "vaporeon",
       "types": ["water"],
-      "url": "http://localhost:5000/images/vaporeon.png"
+      "url": "https://cordex-be.onrender.com/images/vaporeon.png"
     },
     {
       "id": 135,
       "name": "jolteon",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/jolteon.png"
+      "url": "https://cordex-be.onrender.com/images/jolteon.png"
     },
     {
       "id": 136,
       "name": "flareon",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/flareon.png"
+      "url": "https://cordex-be.onrender.com/images/flareon.png"
     },
     {
       "id": 137,
       "name": "porygon",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/porygon.png"
+      "url": "https://cordex-be.onrender.com/images/porygon.png"
     },
     {
       "id": 138,
       "name": "omanyte",
       "types": ["rock", "water"],
-      "url": "http://localhost:5000/images/omanyte.png"
+      "url": "https://cordex-be.onrender.com/images/omanyte.png"
     },
     {
       "id": 139,
       "name": "omastar",
       "types": ["rock", "water"],
-      "url": "http://localhost:5000/images/omastar.png"
+      "url": "https://cordex-be.onrender.com/images/omastar.png"
     },
     {
       "id": 140,
       "name": "kabuto",
       "types": ["rock", "water"],
-      "url": "http://localhost:5000/images/kabuto.png"
+      "url": "https://cordex-be.onrender.com/images/kabuto.png"
     },
     {
       "id": 141,
       "name": "kabutops",
       "types": ["rock", "water"],
-      "url": "http://localhost:5000/images/kabutops.png"
+      "url": "https://cordex-be.onrender.com/images/kabutops.png"
     },
     {
       "id": 142,
       "name": "aerodactyl",
       "types": ["rock", "flying"],
-      "url": "http://localhost:5000/images/aerodactyl.png"
+      "url": "https://cordex-be.onrender.com/images/aerodactyl.png"
     },
     {
       "id": 143,
       "name": "snorlax",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/snorlax.png"
+      "url": "https://cordex-be.onrender.com/images/snorlax.png"
     },
     {
       "id": 144,
       "name": "articuno",
       "types": ["ice", "flying"],
-      "url": "http://localhost:5000/images/articuno.png"
+      "url": "https://cordex-be.onrender.com/images/articuno.png"
     },
     {
       "id": 145,
       "name": "zapdos",
       "types": ["electric", "flying"],
-      "url": "http://localhost:5000/images/zapdos.png"
+      "url": "https://cordex-be.onrender.com/images/zapdos.png"
     },
     {
       "id": 146,
       "name": "moltres",
       "types": ["fire", "flying"],
-      "url": "http://localhost:5000/images/moltres.png"
+      "url": "https://cordex-be.onrender.com/images/moltres.png"
     },
     {
       "id": 147,
       "name": "dratini",
       "types": ["dragon"],
-      "url": "http://localhost:5000/images/dratini.png"
+      "url": "https://cordex-be.onrender.com/images/dratini.png"
     },
     {
       "id": 148,
       "name": "dragonair",
       "types": ["dragon"],
-      "url": "http://localhost:5000/images/dragonair.png"
+      "url": "https://cordex-be.onrender.com/images/dragonair.png"
     },
     {
       "id": 149,
       "name": "dragonite",
       "types": ["dragon", "flying"],
-      "url": "http://localhost:5000/images/dragonite.png"
+      "url": "https://cordex-be.onrender.com/images/dragonite.png"
     },
     {
       "id": 150,
       "name": "mewtwo",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/mewtwo.png"
+      "url": "https://cordex-be.onrender.com/images/mewtwo.png"
     },
     {
       "id": 151,
       "name": "mew",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/mew.png"
+      "url": "https://cordex-be.onrender.com/images/mew.png"
     },
     {
       "id": 152,
       "name": "chikorita",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/chikorita.png"
+      "url": "https://cordex-be.onrender.com/images/chikorita.png"
     },
     {
       "id": 153,
       "name": "bayleef",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/bayleef.png"
+      "url": "https://cordex-be.onrender.com/images/bayleef.png"
     },
     {
       "id": 154,
       "name": "meganium",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/meganium.png"
+      "url": "https://cordex-be.onrender.com/images/meganium.png"
     },
     {
       "id": 155,
       "name": "cyndaquil",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/cyndaquil.png"
+      "url": "https://cordex-be.onrender.com/images/cyndaquil.png"
     },
     {
       "id": 156,
       "name": "quilava",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/quilava.png"
+      "url": "https://cordex-be.onrender.com/images/quilava.png"
     },
     {
       "id": 157,
       "name": "typhlosion",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/typhlosion.png"
+      "url": "https://cordex-be.onrender.com/images/typhlosion.png"
     },
     {
       "id": 158,
       "name": "totodile",
       "types": ["water"],
-      "url": "http://localhost:5000/images/totodile.png"
+      "url": "https://cordex-be.onrender.com/images/totodile.png"
     },
     {
       "id": 159,
       "name": "croconaw",
       "types": ["water"],
-      "url": "http://localhost:5000/images/croconaw.png"
+      "url": "https://cordex-be.onrender.com/images/croconaw.png"
     },
     {
       "id": 160,
       "name": "feraligatr",
       "types": ["water"],
-      "url": "http://localhost:5000/images/feraligatr.png"
+      "url": "https://cordex-be.onrender.com/images/feraligatr.png"
     },
     {
       "id": 161,
       "name": "sentret",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/sentret.png"
+      "url": "https://cordex-be.onrender.com/images/sentret.png"
     },
     {
       "id": 162,
       "name": "furret",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/furret.png"
+      "url": "https://cordex-be.onrender.com/images/furret.png"
     },
     {
       "id": 163,
       "name": "hoothoot",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/hoothoot.png"
+      "url": "https://cordex-be.onrender.com/images/hoothoot.png"
     },
     {
       "id": 164,
       "name": "noctowl",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/noctowl.png"
+      "url": "https://cordex-be.onrender.com/images/noctowl.png"
     },
     {
       "id": 165,
       "name": "ledyba",
       "types": ["bug", "flying"],
-      "url": "http://localhost:5000/images/ledyba.png"
+      "url": "https://cordex-be.onrender.com/images/ledyba.png"
     },
     {
       "id": 166,
       "name": "ledian",
       "types": ["bug", "flying"],
-      "url": "http://localhost:5000/images/ledian.png"
+      "url": "https://cordex-be.onrender.com/images/ledian.png"
     },
     {
       "id": 167,
       "name": "spinarak",
       "types": ["bug", "poison"],
-      "url": "http://localhost:5000/images/spinarak.png"
+      "url": "https://cordex-be.onrender.com/images/spinarak.png"
     },
     {
       "id": 168,
       "name": "ariados",
       "types": ["bug", "poison"],
-      "url": "http://localhost:5000/images/ariados.png"
+      "url": "https://cordex-be.onrender.com/images/ariados.png"
     },
     {
       "id": 169,
       "name": "crobat",
       "types": ["poison", "flying"],
-      "url": "http://localhost:5000/images/crobat.png"
+      "url": "https://cordex-be.onrender.com/images/crobat.png"
     },
     {
       "id": 170,
       "name": "chinchou",
       "types": ["water", "electric"],
-      "url": "http://localhost:5000/images/chinchou.png"
+      "url": "https://cordex-be.onrender.com/images/chinchou.png"
     },
     {
       "id": 171,
       "name": "lanturn",
       "types": ["water", "electric"],
-      "url": "http://localhost:5000/images/lanturn.png"
+      "url": "https://cordex-be.onrender.com/images/lanturn.png"
     },
     {
       "id": 172,
       "name": "pichu",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/pichu.png"
+      "url": "https://cordex-be.onrender.com/images/pichu.png"
     },
     {
       "id": 173,
       "name": "cleffa",
       "types": ["fairy"],
-      "url": "http://localhost:5000/images/cleffa.png"
+      "url": "https://cordex-be.onrender.com/images/cleffa.png"
     },
     {
       "id": 174,
       "name": "igglybuff",
       "types": ["normal", "fairy"],
-      "url": "http://localhost:5000/images/igglybuff.png"
+      "url": "https://cordex-be.onrender.com/images/igglybuff.png"
     },
     {
       "id": 175,
       "name": "togepi",
       "types": ["fairy"],
-      "url": "http://localhost:5000/images/togepi.png"
+      "url": "https://cordex-be.onrender.com/images/togepi.png"
     },
     {
       "id": 176,
       "name": "togetic",
       "types": ["fairy", "flying"],
-      "url": "http://localhost:5000/images/togetic.png"
+      "url": "https://cordex-be.onrender.com/images/togetic.png"
     },
     {
       "id": 177,
       "name": "natu",
       "types": ["psychic", "flying"],
-      "url": "http://localhost:5000/images/natu.png"
+      "url": "https://cordex-be.onrender.com/images/natu.png"
     },
     {
       "id": 178,
       "name": "xatu",
       "types": ["psychic", "flying"],
-      "url": "http://localhost:5000/images/xatu.png"
+      "url": "https://cordex-be.onrender.com/images/xatu.png"
     },
     {
       "id": 179,
       "name": "mareep",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/mareep.png"
+      "url": "https://cordex-be.onrender.com/images/mareep.png"
     },
     {
       "id": 180,
       "name": "flaaffy",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/flaaffy.png"
+      "url": "https://cordex-be.onrender.com/images/flaaffy.png"
     },
     {
       "id": 181,
       "name": "ampharos",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/ampharos.png"
+      "url": "https://cordex-be.onrender.com/images/ampharos.png"
     },
     {
       "id": 182,
       "name": "bellossom",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/bellossom.png"
+      "url": "https://cordex-be.onrender.com/images/bellossom.png"
     },
     {
       "id": 183,
       "name": "marill",
       "types": ["water", "fairy"],
-      "url": "http://localhost:5000/images/marill.png"
+      "url": "https://cordex-be.onrender.com/images/marill.png"
     },
     {
       "id": 184,
       "name": "azumarill",
       "types": ["water", "fairy"],
-      "url": "http://localhost:5000/images/azumarill.png"
+      "url": "https://cordex-be.onrender.com/images/azumarill.png"
     },
     {
       "id": 185,
       "name": "sudowoodo",
       "types": ["rock"],
-      "url": "http://localhost:5000/images/sudowoodo.png"
+      "url": "https://cordex-be.onrender.com/images/sudowoodo.png"
     },
     {
       "id": 186,
       "name": "politoed",
       "types": ["water"],
-      "url": "http://localhost:5000/images/politoed.png"
+      "url": "https://cordex-be.onrender.com/images/politoed.png"
     },
     {
       "id": 187,
       "name": "hoppip",
       "types": ["grass", "flying"],
-      "url": "http://localhost:5000/images/hoppip.png"
+      "url": "https://cordex-be.onrender.com/images/hoppip.png"
     },
     {
       "id": 188,
       "name": "skiploom",
       "types": ["grass", "flying"],
-      "url": "http://localhost:5000/images/skiploom.png"
+      "url": "https://cordex-be.onrender.com/images/skiploom.png"
     },
     {
       "id": 189,
       "name": "jumpluff",
       "types": ["grass", "flying"],
-      "url": "http://localhost:5000/images/jumpluff.png"
+      "url": "https://cordex-be.onrender.com/images/jumpluff.png"
     },
     {
       "id": 190,
       "name": "aipom",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/aipom.png"
+      "url": "https://cordex-be.onrender.com/images/aipom.png"
     },
     {
       "id": 191,
       "name": "sunkern",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/sunkern.png"
+      "url": "https://cordex-be.onrender.com/images/sunkern.png"
     },
     {
       "id": 192,
       "name": "sunflora",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/sunflora.png"
+      "url": "https://cordex-be.onrender.com/images/sunflora.png"
     },
     {
       "id": 193,
       "name": "yanma",
       "types": ["bug", "flying"],
-      "url": "http://localhost:5000/images/yanma.png"
+      "url": "https://cordex-be.onrender.com/images/yanma.png"
     },
     {
       "id": 194,
       "name": "wooper",
       "types": ["water", "ground"],
-      "url": "http://localhost:5000/images/wooper.png"
+      "url": "https://cordex-be.onrender.com/images/wooper.png"
     },
     {
       "id": 195,
       "name": "quagsire",
       "types": ["water", "ground"],
-      "url": "http://localhost:5000/images/quagsire.png"
+      "url": "https://cordex-be.onrender.com/images/quagsire.png"
     },
     {
       "id": 196,
       "name": "espeon",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/espeon.png"
+      "url": "https://cordex-be.onrender.com/images/espeon.png"
     },
     {
       "id": 197,
       "name": "umbreon",
       "types": ["dark"],
-      "url": "http://localhost:5000/images/umbreon.png"
+      "url": "https://cordex-be.onrender.com/images/umbreon.png"
     },
     {
       "id": 198,
       "name": "murkrow",
       "types": ["dark", "flying"],
-      "url": "http://localhost:5000/images/murkrow.png"
+      "url": "https://cordex-be.onrender.com/images/murkrow.png"
     },
     {
       "id": 199,
       "name": "slowking",
       "types": ["water", "psychic"],
-      "url": "http://localhost:5000/images/slowking.png"
+      "url": "https://cordex-be.onrender.com/images/slowking.png"
     },
     {
       "id": 200,
       "name": "misdreavus",
       "types": ["ghost"],
-      "url": "http://localhost:5000/images/misdreavus.png"
+      "url": "https://cordex-be.onrender.com/images/misdreavus.png"
     },
     {
       "id": 201,
       "name": "unown",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/unown.png"
+      "url": "https://cordex-be.onrender.com/images/unown.png"
     },
     {
       "id": 202,
       "name": "wobbuffet",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/wobbuffet.png"
+      "url": "https://cordex-be.onrender.com/images/wobbuffet.png"
     },
     {
       "id": 203,
       "name": "girafarig",
       "types": ["normal", "psychic"],
-      "url": "http://localhost:5000/images/girafarig.png"
+      "url": "https://cordex-be.onrender.com/images/girafarig.png"
     },
     {
       "id": 204,
       "name": "pineco",
       "types": ["bug"],
-      "url": "http://localhost:5000/images/pineco.png"
+      "url": "https://cordex-be.onrender.com/images/pineco.png"
     },
     {
       "id": 205,
       "name": "forretress",
       "types": ["bug", "steel"],
-      "url": "http://localhost:5000/images/forretress.png"
+      "url": "https://cordex-be.onrender.com/images/forretress.png"
     },
     {
       "id": 206,
       "name": "dunsparce",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/dunsparce.png"
+      "url": "https://cordex-be.onrender.com/images/dunsparce.png"
     },
     {
       "id": 207,
       "name": "gligar",
       "types": ["ground", "flying"],
-      "url": "http://localhost:5000/images/gligar.png"
+      "url": "https://cordex-be.onrender.com/images/gligar.png"
     },
     {
       "id": 208,
       "name": "steelix",
       "types": ["steel", "ground"],
-      "url": "http://localhost:5000/images/steelix.png"
+      "url": "https://cordex-be.onrender.com/images/steelix.png"
     },
     {
       "id": 209,
       "name": "snubbull",
       "types": ["fairy"],
-      "url": "http://localhost:5000/images/snubbull.png"
+      "url": "https://cordex-be.onrender.com/images/snubbull.png"
     },
     {
       "id": 210,
       "name": "granbull",
       "types": ["fairy"],
-      "url": "http://localhost:5000/images/granbull.png"
+      "url": "https://cordex-be.onrender.com/images/granbull.png"
     },
     {
       "id": 211,
       "name": "qwilfish",
       "types": ["water", "poison"],
-      "url": "http://localhost:5000/images/qwilfish.png"
+      "url": "https://cordex-be.onrender.com/images/qwilfish.png"
     },
     {
       "id": 212,
       "name": "scizor",
       "types": ["bug", "steel"],
-      "url": "http://localhost:5000/images/scizor.png"
+      "url": "https://cordex-be.onrender.com/images/scizor.png"
     },
     {
       "id": 213,
       "name": "shuckle",
       "types": ["bug", "rock"],
-      "url": "http://localhost:5000/images/shuckle.png"
+      "url": "https://cordex-be.onrender.com/images/shuckle.png"
     },
     {
       "id": 214,
       "name": "heracross",
       "types": ["bug", "fighting"],
-      "url": "http://localhost:5000/images/heracross.png"
+      "url": "https://cordex-be.onrender.com/images/heracross.png"
     },
     {
       "id": 215,
       "name": "sneasel",
       "types": ["dark", "ice"],
-      "url": "http://localhost:5000/images/sneasel.png"
+      "url": "https://cordex-be.onrender.com/images/sneasel.png"
     },
     {
       "id": 216,
       "name": "teddiursa",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/teddiursa.png"
+      "url": "https://cordex-be.onrender.com/images/teddiursa.png"
     },
     {
       "id": 217,
       "name": "ursaring",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/ursaring.png"
+      "url": "https://cordex-be.onrender.com/images/ursaring.png"
     },
     {
       "id": 218,
       "name": "slugma",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/slugma.png"
+      "url": "https://cordex-be.onrender.com/images/slugma.png"
     },
     {
       "id": 219,
       "name": "magcargo",
       "types": ["fire", "rock"],
-      "url": "http://localhost:5000/images/magcargo.png"
+      "url": "https://cordex-be.onrender.com/images/magcargo.png"
     },
     {
       "id": 220,
       "name": "swinub",
       "types": ["ice", "ground"],
-      "url": "http://localhost:5000/images/swinub.png"
+      "url": "https://cordex-be.onrender.com/images/swinub.png"
     },
     {
       "id": 221,
       "name": "piloswine",
       "types": ["ice", "ground"],
-      "url": "http://localhost:5000/images/piloswine.png"
+      "url": "https://cordex-be.onrender.com/images/piloswine.png"
     },
     {
       "id": 222,
       "name": "corsola",
       "types": ["water", "rock"],
-      "url": "http://localhost:5000/images/corsola.png"
+      "url": "https://cordex-be.onrender.com/images/corsola.png"
     },
     {
       "id": 223,
       "name": "remoraid",
       "types": ["water"],
-      "url": "http://localhost:5000/images/remoraid.png"
+      "url": "https://cordex-be.onrender.com/images/remoraid.png"
     },
     {
       "id": 224,
       "name": "octillery",
       "types": ["water"],
-      "url": "http://localhost:5000/images/octillery.png"
+      "url": "https://cordex-be.onrender.com/images/octillery.png"
     },
     {
       "id": 225,
       "name": "delibird",
       "types": ["ice", "flying"],
-      "url": "http://localhost:5000/images/delibird.png"
+      "url": "https://cordex-be.onrender.com/images/delibird.png"
     },
     {
       "id": 226,
       "name": "mantine",
       "types": ["water", "flying"],
-      "url": "http://localhost:5000/images/mantine.png"
+      "url": "https://cordex-be.onrender.com/images/mantine.png"
     },
     {
       "id": 227,
       "name": "skarmory",
       "types": ["steel", "flying"],
-      "url": "http://localhost:5000/images/skarmory.png"
+      "url": "https://cordex-be.onrender.com/images/skarmory.png"
     },
     {
       "id": 228,
       "name": "houndour",
       "types": ["dark", "fire"],
-      "url": "http://localhost:5000/images/houndour.png"
+      "url": "https://cordex-be.onrender.com/images/houndour.png"
     },
     {
       "id": 229,
       "name": "houndoom",
       "types": ["dark", "fire"],
-      "url": "http://localhost:5000/images/houndoom.png"
+      "url": "https://cordex-be.onrender.com/images/houndoom.png"
     },
     {
       "id": 230,
       "name": "kingdra",
       "types": ["water", "dragon"],
-      "url": "http://localhost:5000/images/kingdra.png"
+      "url": "https://cordex-be.onrender.com/images/kingdra.png"
     },
     {
       "id": 231,
       "name": "phanpy",
       "types": ["ground"],
-      "url": "http://localhost:5000/images/phanpy.png"
+      "url": "https://cordex-be.onrender.com/images/phanpy.png"
     },
     {
       "id": 232,
       "name": "donphan",
       "types": ["ground"],
-      "url": "http://localhost:5000/images/donphan.png"
+      "url": "https://cordex-be.onrender.com/images/donphan.png"
     },
     {
       "id": 233,
       "name": "porygon2",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/porygon2.png"
+      "url": "https://cordex-be.onrender.com/images/porygon2.png"
     },
     {
       "id": 234,
       "name": "stantler",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/stantler.png"
+      "url": "https://cordex-be.onrender.com/images/stantler.png"
     },
     {
       "id": 235,
       "name": "smeargle",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/smeargle.png"
+      "url": "https://cordex-be.onrender.com/images/smeargle.png"
     },
     {
       "id": 236,
       "name": "tyrogue",
       "types": ["fighting"],
-      "url": "http://localhost:5000/images/tyrogue.png"
+      "url": "https://cordex-be.onrender.com/images/tyrogue.png"
     },
     {
       "id": 237,
       "name": "hitmontop",
       "types": ["fighting"],
-      "url": "http://localhost:5000/images/hitmontop.png"
+      "url": "https://cordex-be.onrender.com/images/hitmontop.png"
     },
     {
       "id": 238,
       "name": "smoochum",
       "types": ["ice", "psychic"],
-      "url": "http://localhost:5000/images/smoochum.png"
+      "url": "https://cordex-be.onrender.com/images/smoochum.png"
     },
     {
       "id": 239,
       "name": "elekid",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/elekid.png"
+      "url": "https://cordex-be.onrender.com/images/elekid.png"
     },
     {
       "id": 240,
       "name": "magby",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/magby.png"
+      "url": "https://cordex-be.onrender.com/images/magby.png"
     },
     {
       "id": 241,
       "name": "miltank",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/miltank.png"
+      "url": "https://cordex-be.onrender.com/images/miltank.png"
     },
     {
       "id": 242,
       "name": "blissey",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/blissey.png"
+      "url": "https://cordex-be.onrender.com/images/blissey.png"
     },
     {
       "id": 243,
       "name": "raikou",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/raikou.png"
+      "url": "https://cordex-be.onrender.com/images/raikou.png"
     },
     {
       "id": 244,
       "name": "entei",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/entei.png"
+      "url": "https://cordex-be.onrender.com/images/entei.png"
     },
     {
       "id": 245,
       "name": "suicune",
       "types": ["water"],
-      "url": "http://localhost:5000/images/suicune.png"
+      "url": "https://cordex-be.onrender.com/images/suicune.png"
     },
     {
       "id": 246,
       "name": "larvitar",
       "types": ["rock", "ground"],
-      "url": "http://localhost:5000/images/larvitar.png"
+      "url": "https://cordex-be.onrender.com/images/larvitar.png"
     },
     {
       "id": 247,
       "name": "pupitar",
       "types": ["rock", "ground"],
-      "url": "http://localhost:5000/images/pupitar.png"
+      "url": "https://cordex-be.onrender.com/images/pupitar.png"
     },
     {
       "id": 248,
       "name": "tyranitar",
       "types": ["rock", "dark"],
-      "url": "http://localhost:5000/images/tyranitar.png"
+      "url": "https://cordex-be.onrender.com/images/tyranitar.png"
     },
     {
       "id": 249,
       "name": "lugia",
       "types": ["psychic", "flying"],
-      "url": "http://localhost:5000/images/lugia.png"
+      "url": "https://cordex-be.onrender.com/images/lugia.png"
     },
     {
       "id": 250,
       "name": "ho-oh",
       "types": ["fire", "flying"],
-      "url": "http://localhost:5000/images/ho-oh.png"
+      "url": "https://cordex-be.onrender.com/images/ho-oh.png"
     },
     {
       "id": 251,
       "name": "celebi",
       "types": ["psychic", "grass"],
-      "url": "http://localhost:5000/images/celebi.png"
+      "url": "https://cordex-be.onrender.com/images/celebi.png"
     },
     {
       "id": 252,
       "name": "treecko",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/treecko.png"
+      "url": "https://cordex-be.onrender.com/images/treecko.png"
     },
     {
       "id": 253,
       "name": "grovyle",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/grovyle.png"
+      "url": "https://cordex-be.onrender.com/images/grovyle.png"
     },
     {
       "id": 254,
       "name": "sceptile",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/sceptile.png"
+      "url": "https://cordex-be.onrender.com/images/sceptile.png"
     },
     {
       "id": 255,
       "name": "torchic",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/torchic.png"
+      "url": "https://cordex-be.onrender.com/images/torchic.png"
     },
     {
       "id": 256,
       "name": "combusken",
       "types": ["fire", "fighting"],
-      "url": "http://localhost:5000/images/combusken.png"
+      "url": "https://cordex-be.onrender.com/images/combusken.png"
     },
     {
       "id": 257,
       "name": "blaziken",
       "types": ["fire", "fighting"],
-      "url": "http://localhost:5000/images/blaziken.png"
+      "url": "https://cordex-be.onrender.com/images/blaziken.png"
     },
     {
       "id": 258,
       "name": "mudkip",
       "types": ["water"],
-      "url": "http://localhost:5000/images/mudkip.png"
+      "url": "https://cordex-be.onrender.com/images/mudkip.png"
     },
     {
       "id": 259,
       "name": "marshtomp",
       "types": ["water", "ground"],
-      "url": "http://localhost:5000/images/marshtomp.png"
+      "url": "https://cordex-be.onrender.com/images/marshtomp.png"
     },
     {
       "id": 260,
       "name": "swampert",
       "types": ["water", "ground"],
-      "url": "http://localhost:5000/images/swampert.png"
+      "url": "https://cordex-be.onrender.com/images/swampert.png"
     },
     {
       "id": 261,
       "name": "poochyena",
       "types": ["dark"],
-      "url": "http://localhost:5000/images/poochyena.png"
+      "url": "https://cordex-be.onrender.com/images/poochyena.png"
     },
     {
       "id": 262,
       "name": "mightyena",
       "types": ["dark"],
-      "url": "http://localhost:5000/images/mightyena.png"
+      "url": "https://cordex-be.onrender.com/images/mightyena.png"
     },
     {
       "id": 263,
       "name": "zigzagoon",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/zigzagoon.png"
+      "url": "https://cordex-be.onrender.com/images/zigzagoon.png"
     },
     {
       "id": 264,
       "name": "linoone",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/linoone.png"
+      "url": "https://cordex-be.onrender.com/images/linoone.png"
     },
     {
       "id": 265,
       "name": "wurmple",
       "types": ["bug"],
-      "url": "http://localhost:5000/images/wurmple.png"
+      "url": "https://cordex-be.onrender.com/images/wurmple.png"
     },
     {
       "id": 266,
       "name": "silcoon",
       "types": ["bug"],
-      "url": "http://localhost:5000/images/silcoon.png"
+      "url": "https://cordex-be.onrender.com/images/silcoon.png"
     },
     {
       "id": 267,
       "name": "beautifly",
       "types": ["bug", "flying"],
-      "url": "http://localhost:5000/images/beautifly.png"
+      "url": "https://cordex-be.onrender.com/images/beautifly.png"
     },
     {
       "id": 268,
       "name": "cascoon",
       "types": ["bug"],
-      "url": "http://localhost:5000/images/cascoon.png"
+      "url": "https://cordex-be.onrender.com/images/cascoon.png"
     },
     {
       "id": 269,
       "name": "dustox",
       "types": ["bug", "poison"],
-      "url": "http://localhost:5000/images/dustox.png"
+      "url": "https://cordex-be.onrender.com/images/dustox.png"
     },
     {
       "id": 270,
       "name": "lotad",
       "types": ["water", "grass"],
-      "url": "http://localhost:5000/images/lotad.png"
+      "url": "https://cordex-be.onrender.com/images/lotad.png"
     },
     {
       "id": 271,
       "name": "lombre",
       "types": ["water", "grass"],
-      "url": "http://localhost:5000/images/lombre.png"
+      "url": "https://cordex-be.onrender.com/images/lombre.png"
     },
     {
       "id": 272,
       "name": "ludicolo",
       "types": ["water", "grass"],
-      "url": "http://localhost:5000/images/ludicolo.png"
+      "url": "https://cordex-be.onrender.com/images/ludicolo.png"
     },
     {
       "id": 273,
       "name": "seedot",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/seedot.png"
+      "url": "https://cordex-be.onrender.com/images/seedot.png"
     },
     {
       "id": 274,
       "name": "nuzleaf",
       "types": ["grass", "dark"],
-      "url": "http://localhost:5000/images/nuzleaf.png"
+      "url": "https://cordex-be.onrender.com/images/nuzleaf.png"
     },
     {
       "id": 275,
       "name": "shiftry",
       "types": ["grass", "dark"],
-      "url": "http://localhost:5000/images/shiftry.png"
+      "url": "https://cordex-be.onrender.com/images/shiftry.png"
     },
     {
       "id": 276,
       "name": "taillow",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/taillow.png"
+      "url": "https://cordex-be.onrender.com/images/taillow.png"
     },
     {
       "id": 277,
       "name": "swellow",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/swellow.png"
+      "url": "https://cordex-be.onrender.com/images/swellow.png"
     },
     {
       "id": 278,
       "name": "wingull",
       "types": ["water", "flying"],
-      "url": "http://localhost:5000/images/wingull.png"
+      "url": "https://cordex-be.onrender.com/images/wingull.png"
     },
     {
       "id": 279,
       "name": "pelipper",
       "types": ["water", "flying"],
-      "url": "http://localhost:5000/images/pelipper.png"
+      "url": "https://cordex-be.onrender.com/images/pelipper.png"
     },
     {
       "id": 280,
       "name": "ralts",
       "types": ["psychic", "fairy"],
-      "url": "http://localhost:5000/images/ralts.png"
+      "url": "https://cordex-be.onrender.com/images/ralts.png"
     },
     {
       "id": 281,
       "name": "kirlia",
       "types": ["psychic", "fairy"],
-      "url": "http://localhost:5000/images/kirlia.png"
+      "url": "https://cordex-be.onrender.com/images/kirlia.png"
     },
     {
       "id": 282,
       "name": "gardevoir",
       "types": ["psychic", "fairy"],
-      "url": "http://localhost:5000/images/gardevoir.png"
+      "url": "https://cordex-be.onrender.com/images/gardevoir.png"
     },
     {
       "id": 283,
       "name": "surskit",
       "types": ["bug", "water"],
-      "url": "http://localhost:5000/images/surskit.png"
+      "url": "https://cordex-be.onrender.com/images/surskit.png"
     },
     {
       "id": 284,
       "name": "masquerain",
       "types": ["bug", "flying"],
-      "url": "http://localhost:5000/images/masquerain.png"
+      "url": "https://cordex-be.onrender.com/images/masquerain.png"
     },
     {
       "id": 285,
       "name": "shroomish",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/shroomish.png"
+      "url": "https://cordex-be.onrender.com/images/shroomish.png"
     },
     {
       "id": 286,
       "name": "breloom",
       "types": ["grass", "fighting"],
-      "url": "http://localhost:5000/images/breloom.png"
+      "url": "https://cordex-be.onrender.com/images/breloom.png"
     },
     {
       "id": 287,
       "name": "slakoth",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/slakoth.png"
+      "url": "https://cordex-be.onrender.com/images/slakoth.png"
     },
     {
       "id": 288,
       "name": "vigoroth",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/vigoroth.png"
+      "url": "https://cordex-be.onrender.com/images/vigoroth.png"
     },
     {
       "id": 289,
       "name": "slaking",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/slaking.png"
+      "url": "https://cordex-be.onrender.com/images/slaking.png"
     },
     {
       "id": 290,
       "name": "nincada",
       "types": ["bug", "ground"],
-      "url": "http://localhost:5000/images/nincada.png"
+      "url": "https://cordex-be.onrender.com/images/nincada.png"
     },
     {
       "id": 291,
       "name": "ninjask",
       "types": ["bug", "flying"],
-      "url": "http://localhost:5000/images/ninjask.png"
+      "url": "https://cordex-be.onrender.com/images/ninjask.png"
     },
     {
       "id": 292,
       "name": "shedinja",
       "types": ["bug", "ghost"],
-      "url": "http://localhost:5000/images/shedinja.png"
+      "url": "https://cordex-be.onrender.com/images/shedinja.png"
     },
     {
       "id": 293,
       "name": "whismur",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/whismur.png"
+      "url": "https://cordex-be.onrender.com/images/whismur.png"
     },
     {
       "id": 294,
       "name": "loudred",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/loudred.png"
+      "url": "https://cordex-be.onrender.com/images/loudred.png"
     },
     {
       "id": 295,
       "name": "exploud",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/exploud.png"
+      "url": "https://cordex-be.onrender.com/images/exploud.png"
     },
     {
       "id": 296,
       "name": "makuhita",
       "types": ["fighting"],
-      "url": "http://localhost:5000/images/makuhita.png"
+      "url": "https://cordex-be.onrender.com/images/makuhita.png"
     },
     {
       "id": 297,
       "name": "hariyama",
       "types": ["fighting"],
-      "url": "http://localhost:5000/images/hariyama.png"
+      "url": "https://cordex-be.onrender.com/images/hariyama.png"
     },
     {
       "id": 298,
       "name": "azurill",
       "types": ["normal", "fairy"],
-      "url": "http://localhost:5000/images/azurill.png"
+      "url": "https://cordex-be.onrender.com/images/azurill.png"
     },
     {
       "id": 299,
       "name": "nosepass",
       "types": ["rock"],
-      "url": "http://localhost:5000/images/nosepass.png"
+      "url": "https://cordex-be.onrender.com/images/nosepass.png"
     },
     {
       "id": 300,
       "name": "skitty",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/skitty.png"
+      "url": "https://cordex-be.onrender.com/images/skitty.png"
     },
     {
       "id": 301,
       "name": "delcatty",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/delcatty.png"
+      "url": "https://cordex-be.onrender.com/images/delcatty.png"
     },
     {
       "id": 302,
       "name": "sableye",
       "types": ["dark", "ghost"],
-      "url": "http://localhost:5000/images/sableye.png"
+      "url": "https://cordex-be.onrender.com/images/sableye.png"
     },
     {
       "id": 303,
       "name": "mawile",
       "types": ["steel", "fairy"],
-      "url": "http://localhost:5000/images/mawile.png"
+      "url": "https://cordex-be.onrender.com/images/mawile.png"
     },
     {
       "id": 304,
       "name": "aron",
       "types": ["steel", "rock"],
-      "url": "http://localhost:5000/images/aron.png"
+      "url": "https://cordex-be.onrender.com/images/aron.png"
     },
     {
       "id": 305,
       "name": "lairon",
       "types": ["steel", "rock"],
-      "url": "http://localhost:5000/images/lairon.png"
+      "url": "https://cordex-be.onrender.com/images/lairon.png"
     },
     {
       "id": 306,
       "name": "aggron",
       "types": ["steel", "rock"],
-      "url": "http://localhost:5000/images/aggron.png"
+      "url": "https://cordex-be.onrender.com/images/aggron.png"
     },
     {
       "id": 307,
       "name": "meditite",
       "types": ["fighting", "psychic"],
-      "url": "http://localhost:5000/images/meditite.png"
+      "url": "https://cordex-be.onrender.com/images/meditite.png"
     },
     {
       "id": 308,
       "name": "medicham",
       "types": ["fighting", "psychic"],
-      "url": "http://localhost:5000/images/medicham.png"
+      "url": "https://cordex-be.onrender.com/images/medicham.png"
     },
     {
       "id": 309,
       "name": "electrike",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/electrike.png"
+      "url": "https://cordex-be.onrender.com/images/electrike.png"
     },
     {
       "id": 310,
       "name": "manectric",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/manectric.png"
+      "url": "https://cordex-be.onrender.com/images/manectric.png"
     },
     {
       "id": 311,
       "name": "plusle",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/plusle.png"
+      "url": "https://cordex-be.onrender.com/images/plusle.png"
     },
     {
       "id": 312,
       "name": "minun",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/minun.png"
+      "url": "https://cordex-be.onrender.com/images/minun.png"
     },
     {
       "id": 313,
       "name": "volbeat",
       "types": ["bug"],
-      "url": "http://localhost:5000/images/volbeat.png"
+      "url": "https://cordex-be.onrender.com/images/volbeat.png"
     },
     {
       "id": 314,
       "name": "illumise",
       "types": ["bug"],
-      "url": "http://localhost:5000/images/illumise.png"
+      "url": "https://cordex-be.onrender.com/images/illumise.png"
     },
     {
       "id": 315,
       "name": "roselia",
       "types": ["grass", "poison"],
-      "url": "http://localhost:5000/images/roselia.png"
+      "url": "https://cordex-be.onrender.com/images/roselia.png"
     },
     {
       "id": 316,
       "name": "gulpin",
       "types": ["poison"],
-      "url": "http://localhost:5000/images/gulpin.png"
+      "url": "https://cordex-be.onrender.com/images/gulpin.png"
     },
     {
       "id": 317,
       "name": "swalot",
       "types": ["poison"],
-      "url": "http://localhost:5000/images/swalot.png"
+      "url": "https://cordex-be.onrender.com/images/swalot.png"
     },
     {
       "id": 318,
       "name": "carvanha",
       "types": ["water", "dark"],
-      "url": "http://localhost:5000/images/carvanha.png"
+      "url": "https://cordex-be.onrender.com/images/carvanha.png"
     },
     {
       "id": 319,
       "name": "sharpedo",
       "types": ["water", "dark"],
-      "url": "http://localhost:5000/images/sharpedo.png"
+      "url": "https://cordex-be.onrender.com/images/sharpedo.png"
     },
     {
       "id": 320,
       "name": "wailmer",
       "types": ["water"],
-      "url": "http://localhost:5000/images/wailmer.png"
+      "url": "https://cordex-be.onrender.com/images/wailmer.png"
     },
     {
       "id": 321,
       "name": "wailord",
       "types": ["water"],
-      "url": "http://localhost:5000/images/wailord.png"
+      "url": "https://cordex-be.onrender.com/images/wailord.png"
     },
     {
       "id": 322,
       "name": "numel",
       "types": ["fire", "ground"],
-      "url": "http://localhost:5000/images/numel.png"
+      "url": "https://cordex-be.onrender.com/images/numel.png"
     },
     {
       "id": 323,
       "name": "camerupt",
       "types": ["fire", "ground"],
-      "url": "http://localhost:5000/images/camerupt.png"
+      "url": "https://cordex-be.onrender.com/images/camerupt.png"
     },
     {
       "id": 324,
       "name": "torkoal",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/torkoal.png"
+      "url": "https://cordex-be.onrender.com/images/torkoal.png"
     },
     {
       "id": 325,
       "name": "spoink",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/spoink.png"
+      "url": "https://cordex-be.onrender.com/images/spoink.png"
     },
     {
       "id": 326,
       "name": "grumpig",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/grumpig.png"
+      "url": "https://cordex-be.onrender.com/images/grumpig.png"
     },
     {
       "id": 327,
       "name": "spinda",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/spinda.png"
+      "url": "https://cordex-be.onrender.com/images/spinda.png"
     },
     {
       "id": 328,
       "name": "trapinch",
       "types": ["ground"],
-      "url": "http://localhost:5000/images/trapinch.png"
+      "url": "https://cordex-be.onrender.com/images/trapinch.png"
     },
     {
       "id": 329,
       "name": "vibrava",
       "types": ["ground", "dragon"],
-      "url": "http://localhost:5000/images/vibrava.png"
+      "url": "https://cordex-be.onrender.com/images/vibrava.png"
     },
     {
       "id": 330,
       "name": "flygon",
       "types": ["ground", "dragon"],
-      "url": "http://localhost:5000/images/flygon.png"
+      "url": "https://cordex-be.onrender.com/images/flygon.png"
     },
     {
       "id": 331,
       "name": "cacnea",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/cacnea.png"
+      "url": "https://cordex-be.onrender.com/images/cacnea.png"
     },
     {
       "id": 332,
       "name": "cacturne",
       "types": ["grass", "dark"],
-      "url": "http://localhost:5000/images/cacturne.png"
+      "url": "https://cordex-be.onrender.com/images/cacturne.png"
     },
     {
       "id": 333,
       "name": "swablu",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/swablu.png"
+      "url": "https://cordex-be.onrender.com/images/swablu.png"
     },
     {
       "id": 334,
       "name": "altaria",
       "types": ["dragon", "flying"],
-      "url": "http://localhost:5000/images/altaria.png"
+      "url": "https://cordex-be.onrender.com/images/altaria.png"
     },
     {
       "id": 335,
       "name": "zangoose",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/zangoose.png"
+      "url": "https://cordex-be.onrender.com/images/zangoose.png"
     },
     {
       "id": 336,
       "name": "seviper",
       "types": ["poison"],
-      "url": "http://localhost:5000/images/seviper.png"
+      "url": "https://cordex-be.onrender.com/images/seviper.png"
     },
     {
       "id": 337,
       "name": "lunatone",
       "types": ["rock", "psychic"],
-      "url": "http://localhost:5000/images/lunatone.png"
+      "url": "https://cordex-be.onrender.com/images/lunatone.png"
     },
     {
       "id": 338,
       "name": "solrock",
       "types": ["rock", "psychic"],
-      "url": "http://localhost:5000/images/solrock.png"
+      "url": "https://cordex-be.onrender.com/images/solrock.png"
     },
     {
       "id": 339,
       "name": "barboach",
       "types": ["water", "ground"],
-      "url": "http://localhost:5000/images/barboach.png"
+      "url": "https://cordex-be.onrender.com/images/barboach.png"
     },
     {
       "id": 340,
       "name": "whiscash",
       "types": ["water", "ground"],
-      "url": "http://localhost:5000/images/whiscash.png"
+      "url": "https://cordex-be.onrender.com/images/whiscash.png"
     },
     {
       "id": 341,
       "name": "corphish",
       "types": ["water"],
-      "url": "http://localhost:5000/images/corphish.png"
+      "url": "https://cordex-be.onrender.com/images/corphish.png"
     },
     {
       "id": 342,
       "name": "crawdaunt",
       "types": ["water", "dark"],
-      "url": "http://localhost:5000/images/crawdaunt.png"
+      "url": "https://cordex-be.onrender.com/images/crawdaunt.png"
     },
     {
       "id": 343,
       "name": "baltoy",
       "types": ["ground", "psychic"],
-      "url": "http://localhost:5000/images/baltoy.png"
+      "url": "https://cordex-be.onrender.com/images/baltoy.png"
     },
     {
       "id": 344,
       "name": "claydol",
       "types": ["ground", "psychic"],
-      "url": "http://localhost:5000/images/claydol.png"
+      "url": "https://cordex-be.onrender.com/images/claydol.png"
     },
     {
       "id": 345,
       "name": "lileep",
       "types": ["rock", "grass"],
-      "url": "http://localhost:5000/images/lileep.png"
+      "url": "https://cordex-be.onrender.com/images/lileep.png"
     },
     {
       "id": 346,
       "name": "cradily",
       "types": ["rock", "grass"],
-      "url": "http://localhost:5000/images/cradily.png"
+      "url": "https://cordex-be.onrender.com/images/cradily.png"
     },
     {
       "id": 347,
       "name": "anorith",
       "types": ["rock", "bug"],
-      "url": "http://localhost:5000/images/anorith.png"
+      "url": "https://cordex-be.onrender.com/images/anorith.png"
     },
     {
       "id": 348,
       "name": "armaldo",
       "types": ["rock", "bug"],
-      "url": "http://localhost:5000/images/armaldo.png"
+      "url": "https://cordex-be.onrender.com/images/armaldo.png"
     },
     {
       "id": 349,
       "name": "feebas",
       "types": ["water"],
-      "url": "http://localhost:5000/images/feebas.png"
+      "url": "https://cordex-be.onrender.com/images/feebas.png"
     },
     {
       "id": 350,
       "name": "milotic",
       "types": ["water"],
-      "url": "http://localhost:5000/images/milotic.png"
+      "url": "https://cordex-be.onrender.com/images/milotic.png"
     },
     {
       "id": 351,
       "name": "castform",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/castform.png"
+      "url": "https://cordex-be.onrender.com/images/castform.png"
     },
     {
       "id": 352,
       "name": "kecleon",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/kecleon.png"
+      "url": "https://cordex-be.onrender.com/images/kecleon.png"
     },
     {
       "id": 353,
       "name": "shuppet",
       "types": ["ghost"],
-      "url": "http://localhost:5000/images/shuppet.png"
+      "url": "https://cordex-be.onrender.com/images/shuppet.png"
     },
     {
       "id": 354,
       "name": "banette",
       "types": ["ghost"],
-      "url": "http://localhost:5000/images/banette.png"
+      "url": "https://cordex-be.onrender.com/images/banette.png"
     },
     {
       "id": 355,
       "name": "duskull",
       "types": ["ghost"],
-      "url": "http://localhost:5000/images/duskull.png"
+      "url": "https://cordex-be.onrender.com/images/duskull.png"
     },
     {
       "id": 356,
       "name": "dusclops",
       "types": ["ghost"],
-      "url": "http://localhost:5000/images/dusclops.png"
+      "url": "https://cordex-be.onrender.com/images/dusclops.png"
     },
     {
       "id": 357,
       "name": "tropius",
       "types": ["grass", "flying"],
-      "url": "http://localhost:5000/images/tropius.png"
+      "url": "https://cordex-be.onrender.com/images/tropius.png"
     },
     {
       "id": 358,
       "name": "chimecho",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/chimecho.png"
+      "url": "https://cordex-be.onrender.com/images/chimecho.png"
     },
     {
       "id": 359,
       "name": "absol",
       "types": ["dark"],
-      "url": "http://localhost:5000/images/absol.png"
+      "url": "https://cordex-be.onrender.com/images/absol.png"
     },
     {
       "id": 360,
       "name": "wynaut",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/wynaut.png"
+      "url": "https://cordex-be.onrender.com/images/wynaut.png"
     },
     {
       "id": 361,
       "name": "snorunt",
       "types": ["ice"],
-      "url": "http://localhost:5000/images/snorunt.png"
+      "url": "https://cordex-be.onrender.com/images/snorunt.png"
     },
     {
       "id": 362,
       "name": "glalie",
       "types": ["ice"],
-      "url": "http://localhost:5000/images/glalie.png"
+      "url": "https://cordex-be.onrender.com/images/glalie.png"
     },
     {
       "id": 363,
       "name": "spheal",
       "types": ["ice", "water"],
-      "url": "http://localhost:5000/images/spheal.png"
+      "url": "https://cordex-be.onrender.com/images/spheal.png"
     },
     {
       "id": 364,
       "name": "sealeo",
       "types": ["ice", "water"],
-      "url": "http://localhost:5000/images/sealeo.png"
+      "url": "https://cordex-be.onrender.com/images/sealeo.png"
     },
     {
       "id": 365,
       "name": "walrein",
       "types": ["ice", "water"],
-      "url": "http://localhost:5000/images/walrein.png"
+      "url": "https://cordex-be.onrender.com/images/walrein.png"
     },
     {
       "id": 366,
       "name": "clamperl",
       "types": ["water"],
-      "url": "http://localhost:5000/images/clamperl.png"
+      "url": "https://cordex-be.onrender.com/images/clamperl.png"
     },
     {
       "id": 367,
       "name": "huntail",
       "types": ["water"],
-      "url": "http://localhost:5000/images/huntail.png"
+      "url": "https://cordex-be.onrender.com/images/huntail.png"
     },
     {
       "id": 368,
       "name": "gorebyss",
       "types": ["water"],
-      "url": "http://localhost:5000/images/gorebyss.png"
+      "url": "https://cordex-be.onrender.com/images/gorebyss.png"
     },
     {
       "id": 369,
       "name": "relicanth",
       "types": ["water", "rock"],
-      "url": "http://localhost:5000/images/relicanth.png"
+      "url": "https://cordex-be.onrender.com/images/relicanth.png"
     },
     {
       "id": 370,
       "name": "luvdisc",
       "types": ["water"],
-      "url": "http://localhost:5000/images/luvdisc.png"
+      "url": "https://cordex-be.onrender.com/images/luvdisc.png"
     },
     {
       "id": 371,
       "name": "bagon",
       "types": ["dragon"],
-      "url": "http://localhost:5000/images/bagon.png"
+      "url": "https://cordex-be.onrender.com/images/bagon.png"
     },
     {
       "id": 372,
       "name": "shelgon",
       "types": ["dragon"],
-      "url": "http://localhost:5000/images/shelgon.png"
+      "url": "https://cordex-be.onrender.com/images/shelgon.png"
     },
     {
       "id": 373,
       "name": "salamence",
       "types": ["dragon", "flying"],
-      "url": "http://localhost:5000/images/salamence.png"
+      "url": "https://cordex-be.onrender.com/images/salamence.png"
     },
     {
       "id": 374,
       "name": "beldum",
       "types": ["steel", "psychic"],
-      "url": "http://localhost:5000/images/beldum.png"
+      "url": "https://cordex-be.onrender.com/images/beldum.png"
     },
     {
       "id": 375,
       "name": "metang",
       "types": ["steel", "psychic"],
-      "url": "http://localhost:5000/images/metang.png"
+      "url": "https://cordex-be.onrender.com/images/metang.png"
     },
     {
       "id": 376,
       "name": "metagross",
       "types": ["steel", "psychic"],
-      "url": "http://localhost:5000/images/metagross.png"
+      "url": "https://cordex-be.onrender.com/images/metagross.png"
     },
     {
       "id": 377,
       "name": "regirock",
       "types": ["rock"],
-      "url": "http://localhost:5000/images/regirock.png"
+      "url": "https://cordex-be.onrender.com/images/regirock.png"
     },
     {
       "id": 378,
       "name": "regice",
       "types": ["ice"],
-      "url": "http://localhost:5000/images/regice.png"
+      "url": "https://cordex-be.onrender.com/images/regice.png"
     },
     {
       "id": 379,
       "name": "registeel",
       "types": ["steel"],
-      "url": "http://localhost:5000/images/registeel.png"
+      "url": "https://cordex-be.onrender.com/images/registeel.png"
     },
     {
       "id": 380,
       "name": "latias",
       "types": ["dragon", "psychic"],
-      "url": "http://localhost:5000/images/latias.png"
+      "url": "https://cordex-be.onrender.com/images/latias.png"
     },
     {
       "id": 381,
       "name": "latios",
       "types": ["dragon", "psychic"],
-      "url": "http://localhost:5000/images/latios.png"
+      "url": "https://cordex-be.onrender.com/images/latios.png"
     },
     {
       "id": 382,
       "name": "kyogre",
       "types": ["water"],
-      "url": "http://localhost:5000/images/kyogre.png"
+      "url": "https://cordex-be.onrender.com/images/kyogre.png"
     },
     {
       "id": 383,
       "name": "groudon",
       "types": ["ground"],
-      "url": "http://localhost:5000/images/groudon.png"
+      "url": "https://cordex-be.onrender.com/images/groudon.png"
     },
     {
       "id": 384,
       "name": "rayquaza",
       "types": ["dragon", "flying"],
-      "url": "http://localhost:5000/images/rayquaza.png"
+      "url": "https://cordex-be.onrender.com/images/rayquaza.png"
     },
     {
       "id": 385,
       "name": "jirachi",
       "types": ["steel", "psychic"],
-      "url": "http://localhost:5000/images/jirachi.png"
+      "url": "https://cordex-be.onrender.com/images/jirachi.png"
     },
     {
       "id": 386,
       "name": "deoxys-normal",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/deoxys-normal.png"
+      "url": "https://cordex-be.onrender.com/images/deoxys-normal.png"
     },
     {
       "id": 387,
       "name": "turtwig",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/turtwig.png"
+      "url": "https://cordex-be.onrender.com/images/turtwig.png"
     },
     {
       "id": 388,
       "name": "grotle",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/grotle.png"
+      "url": "https://cordex-be.onrender.com/images/grotle.png"
     },
     {
       "id": 389,
       "name": "torterra",
       "types": ["grass", "ground"],
-      "url": "http://localhost:5000/images/torterra.png"
+      "url": "https://cordex-be.onrender.com/images/torterra.png"
     },
     {
       "id": 390,
       "name": "chimchar",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/chimchar.png"
+      "url": "https://cordex-be.onrender.com/images/chimchar.png"
     },
     {
       "id": 391,
       "name": "monferno",
       "types": ["fire", "fighting"],
-      "url": "http://localhost:5000/images/monferno.png"
+      "url": "https://cordex-be.onrender.com/images/monferno.png"
     },
     {
       "id": 392,
       "name": "infernape",
       "types": ["fire", "fighting"],
-      "url": "http://localhost:5000/images/infernape.png"
+      "url": "https://cordex-be.onrender.com/images/infernape.png"
     },
     {
       "id": 393,
       "name": "piplup",
       "types": ["water"],
-      "url": "http://localhost:5000/images/piplup.png"
+      "url": "https://cordex-be.onrender.com/images/piplup.png"
     },
     {
       "id": 394,
       "name": "prinplup",
       "types": ["water"],
-      "url": "http://localhost:5000/images/prinplup.png"
+      "url": "https://cordex-be.onrender.com/images/prinplup.png"
     },
     {
       "id": 395,
       "name": "empoleon",
       "types": ["water", "steel"],
-      "url": "http://localhost:5000/images/empoleon.png"
+      "url": "https://cordex-be.onrender.com/images/empoleon.png"
     },
     {
       "id": 396,
       "name": "starly",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/starly.png"
+      "url": "https://cordex-be.onrender.com/images/starly.png"
     },
     {
       "id": 397,
       "name": "staravia",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/staravia.png"
+      "url": "https://cordex-be.onrender.com/images/staravia.png"
     },
     {
       "id": 398,
       "name": "staraptor",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/staraptor.png"
+      "url": "https://cordex-be.onrender.com/images/staraptor.png"
     },
     {
       "id": 399,
       "name": "bidoof",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/bidoof.png"
+      "url": "https://cordex-be.onrender.com/images/bidoof.png"
     },
     {
       "id": 400,
       "name": "bibarel",
       "types": ["normal", "water"],
-      "url": "http://localhost:5000/images/bibarel.png"
+      "url": "https://cordex-be.onrender.com/images/bibarel.png"
     },
     {
       "id": 401,
       "name": "kricketot",
       "types": ["bug"],
-      "url": "http://localhost:5000/images/kricketot.png"
+      "url": "https://cordex-be.onrender.com/images/kricketot.png"
     },
     {
       "id": 402,
       "name": "kricketune",
       "types": ["bug"],
-      "url": "http://localhost:5000/images/kricketune.png"
+      "url": "https://cordex-be.onrender.com/images/kricketune.png"
     },
     {
       "id": 403,
       "name": "shinx",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/shinx.png"
+      "url": "https://cordex-be.onrender.com/images/shinx.png"
     },
     {
       "id": 404,
       "name": "luxio",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/luxio.png"
+      "url": "https://cordex-be.onrender.com/images/luxio.png"
     },
     {
       "id": 405,
       "name": "luxray",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/luxray.png"
+      "url": "https://cordex-be.onrender.com/images/luxray.png"
     },
     {
       "id": 406,
       "name": "budew",
       "types": ["grass", "poison"],
-      "url": "http://localhost:5000/images/budew.png"
+      "url": "https://cordex-be.onrender.com/images/budew.png"
     },
     {
       "id": 407,
       "name": "roserade",
       "types": ["grass", "poison"],
-      "url": "http://localhost:5000/images/roserade.png"
+      "url": "https://cordex-be.onrender.com/images/roserade.png"
     },
     {
       "id": 408,
       "name": "cranidos",
       "types": ["rock"],
-      "url": "http://localhost:5000/images/cranidos.png"
+      "url": "https://cordex-be.onrender.com/images/cranidos.png"
     },
     {
       "id": 409,
       "name": "rampardos",
       "types": ["rock"],
-      "url": "http://localhost:5000/images/rampardos.png"
+      "url": "https://cordex-be.onrender.com/images/rampardos.png"
     },
     {
       "id": 410,
       "name": "shieldon",
       "types": ["rock", "steel"],
-      "url": "http://localhost:5000/images/shieldon.png"
+      "url": "https://cordex-be.onrender.com/images/shieldon.png"
     },
     {
       "id": 411,
       "name": "bastiodon",
       "types": ["rock", "steel"],
-      "url": "http://localhost:5000/images/bastiodon.png"
+      "url": "https://cordex-be.onrender.com/images/bastiodon.png"
     },
     {
       "id": 412,
       "name": "burmy",
       "types": ["bug"],
-      "url": "http://localhost:5000/images/burmy.png"
+      "url": "https://cordex-be.onrender.com/images/burmy.png"
     },
     {
       "id": 413,
       "name": "wormadam-plant",
       "types": ["bug", "grass"],
-      "url": "http://localhost:5000/images/wormadam-plant.png"
+      "url": "https://cordex-be.onrender.com/images/wormadam-plant.png"
     },
     {
       "id": 414,
       "name": "mothim",
       "types": ["bug", "flying"],
-      "url": "http://localhost:5000/images/mothim.png"
+      "url": "https://cordex-be.onrender.com/images/mothim.png"
     },
     {
       "id": 415,
       "name": "combee",
       "types": ["bug", "flying"],
-      "url": "http://localhost:5000/images/combee.png"
+      "url": "https://cordex-be.onrender.com/images/combee.png"
     },
     {
       "id": 416,
       "name": "vespiquen",
       "types": ["bug", "flying"],
-      "url": "http://localhost:5000/images/vespiquen.png"
+      "url": "https://cordex-be.onrender.com/images/vespiquen.png"
     },
     {
       "id": 417,
       "name": "pachirisu",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/pachirisu.png"
+      "url": "https://cordex-be.onrender.com/images/pachirisu.png"
     },
     {
       "id": 418,
       "name": "buizel",
       "types": ["water"],
-      "url": "http://localhost:5000/images/buizel.png"
+      "url": "https://cordex-be.onrender.com/images/buizel.png"
     },
     {
       "id": 419,
       "name": "floatzel",
       "types": ["water"],
-      "url": "http://localhost:5000/images/floatzel.png"
+      "url": "https://cordex-be.onrender.com/images/floatzel.png"
     },
     {
       "id": 420,
       "name": "cherubi",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/cherubi.png"
+      "url": "https://cordex-be.onrender.com/images/cherubi.png"
     },
     {
       "id": 421,
       "name": "cherrim",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/cherrim.png"
+      "url": "https://cordex-be.onrender.com/images/cherrim.png"
     },
     {
       "id": 422,
       "name": "shellos",
       "types": ["water"],
-      "url": "http://localhost:5000/images/shellos.png"
+      "url": "https://cordex-be.onrender.com/images/shellos.png"
     },
     {
       "id": 423,
       "name": "gastrodon",
       "types": ["water", "ground"],
-      "url": "http://localhost:5000/images/gastrodon.png"
+      "url": "https://cordex-be.onrender.com/images/gastrodon.png"
     },
     {
       "id": 424,
       "name": "ambipom",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/ambipom.png"
+      "url": "https://cordex-be.onrender.com/images/ambipom.png"
     },
     {
       "id": 425,
       "name": "drifloon",
       "types": ["ghost", "flying"],
-      "url": "http://localhost:5000/images/drifloon.png"
+      "url": "https://cordex-be.onrender.com/images/drifloon.png"
     },
     {
       "id": 426,
       "name": "drifblim",
       "types": ["ghost", "flying"],
-      "url": "http://localhost:5000/images/drifblim.png"
+      "url": "https://cordex-be.onrender.com/images/drifblim.png"
     },
     {
       "id": 427,
       "name": "buneary",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/buneary.png"
+      "url": "https://cordex-be.onrender.com/images/buneary.png"
     },
     {
       "id": 428,
       "name": "lopunny",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/lopunny.png"
+      "url": "https://cordex-be.onrender.com/images/lopunny.png"
     },
     {
       "id": 429,
       "name": "mismagius",
       "types": ["ghost"],
-      "url": "http://localhost:5000/images/mismagius.png"
+      "url": "https://cordex-be.onrender.com/images/mismagius.png"
     },
     {
       "id": 430,
       "name": "honchkrow",
       "types": ["dark", "flying"],
-      "url": "http://localhost:5000/images/honchkrow.png"
+      "url": "https://cordex-be.onrender.com/images/honchkrow.png"
     },
     {
       "id": 431,
       "name": "glameow",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/glameow.png"
+      "url": "https://cordex-be.onrender.com/images/glameow.png"
     },
     {
       "id": 432,
       "name": "purugly",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/purugly.png"
+      "url": "https://cordex-be.onrender.com/images/purugly.png"
     },
     {
       "id": 433,
       "name": "chingling",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/chingling.png"
+      "url": "https://cordex-be.onrender.com/images/chingling.png"
     },
     {
       "id": 434,
       "name": "stunky",
       "types": ["poison", "dark"],
-      "url": "http://localhost:5000/images/stunky.png"
+      "url": "https://cordex-be.onrender.com/images/stunky.png"
     },
     {
       "id": 435,
       "name": "skuntank",
       "types": ["poison", "dark"],
-      "url": "http://localhost:5000/images/skuntank.png"
+      "url": "https://cordex-be.onrender.com/images/skuntank.png"
     },
     {
       "id": 436,
       "name": "bronzor",
       "types": ["steel", "psychic"],
-      "url": "http://localhost:5000/images/bronzor.png"
+      "url": "https://cordex-be.onrender.com/images/bronzor.png"
     },
     {
       "id": 437,
       "name": "bronzong",
       "types": ["steel", "psychic"],
-      "url": "http://localhost:5000/images/bronzong.png"
+      "url": "https://cordex-be.onrender.com/images/bronzong.png"
     },
     {
       "id": 438,
       "name": "bonsly",
       "types": ["rock"],
-      "url": "http://localhost:5000/images/bonsly.png"
+      "url": "https://cordex-be.onrender.com/images/bonsly.png"
     },
     {
       "id": 439,
       "name": "mime-jr",
       "types": ["psychic", "fairy"],
-      "url": "http://localhost:5000/images/mime-jr.png"
+      "url": "https://cordex-be.onrender.com/images/mime-jr.png"
     },
     {
       "id": 440,
       "name": "happiny",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/happiny.png"
+      "url": "https://cordex-be.onrender.com/images/happiny.png"
     },
     {
       "id": 441,
       "name": "chatot",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/chatot.png"
+      "url": "https://cordex-be.onrender.com/images/chatot.png"
     },
     {
       "id": 442,
       "name": "spiritomb",
       "types": ["ghost", "dark"],
-      "url": "http://localhost:5000/images/spiritomb.png"
+      "url": "https://cordex-be.onrender.com/images/spiritomb.png"
     },
     {
       "id": 443,
       "name": "gible",
       "types": ["dragon", "ground"],
-      "url": "http://localhost:5000/images/gible.png"
+      "url": "https://cordex-be.onrender.com/images/gible.png"
     },
     {
       "id": 444,
       "name": "gabite",
       "types": ["dragon", "ground"],
-      "url": "http://localhost:5000/images/gabite.png"
+      "url": "https://cordex-be.onrender.com/images/gabite.png"
     },
     {
       "id": 445,
       "name": "garchomp",
       "types": ["dragon", "ground"],
-      "url": "http://localhost:5000/images/garchomp.png"
+      "url": "https://cordex-be.onrender.com/images/garchomp.png"
     },
     {
       "id": 446,
       "name": "munchlax",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/munchlax.png"
+      "url": "https://cordex-be.onrender.com/images/munchlax.png"
     },
     {
       "id": 447,
       "name": "riolu",
       "types": ["fighting"],
-      "url": "http://localhost:5000/images/riolu.png"
+      "url": "https://cordex-be.onrender.com/images/riolu.png"
     },
     {
       "id": 448,
       "name": "lucario",
       "types": ["fighting", "steel"],
-      "url": "http://localhost:5000/images/lucario.png"
+      "url": "https://cordex-be.onrender.com/images/lucario.png"
     },
     {
       "id": 449,
       "name": "hippopotas",
       "types": ["ground"],
-      "url": "http://localhost:5000/images/hippopotas.png"
+      "url": "https://cordex-be.onrender.com/images/hippopotas.png"
     },
     {
       "id": 450,
       "name": "hippowdon",
       "types": ["ground"],
-      "url": "http://localhost:5000/images/hippowdon.png"
+      "url": "https://cordex-be.onrender.com/images/hippowdon.png"
     },
     {
       "id": 451,
       "name": "skorupi",
       "types": ["poison", "bug"],
-      "url": "http://localhost:5000/images/skorupi.png"
+      "url": "https://cordex-be.onrender.com/images/skorupi.png"
     },
     {
       "id": 452,
       "name": "drapion",
       "types": ["poison", "dark"],
-      "url": "http://localhost:5000/images/drapion.png"
+      "url": "https://cordex-be.onrender.com/images/drapion.png"
     },
     {
       "id": 453,
       "name": "croagunk",
       "types": ["poison", "fighting"],
-      "url": "http://localhost:5000/images/croagunk.png"
+      "url": "https://cordex-be.onrender.com/images/croagunk.png"
     },
     {
       "id": 454,
       "name": "toxicroak",
       "types": ["poison", "fighting"],
-      "url": "http://localhost:5000/images/toxicroak.png"
+      "url": "https://cordex-be.onrender.com/images/toxicroak.png"
     },
     {
       "id": 455,
       "name": "carnivine",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/carnivine.png"
+      "url": "https://cordex-be.onrender.com/images/carnivine.png"
     },
     {
       "id": 456,
       "name": "finneon",
       "types": ["water"],
-      "url": "http://localhost:5000/images/finneon.png"
+      "url": "https://cordex-be.onrender.com/images/finneon.png"
     },
     {
       "id": 457,
       "name": "lumineon",
       "types": ["water"],
-      "url": "http://localhost:5000/images/lumineon.png"
+      "url": "https://cordex-be.onrender.com/images/lumineon.png"
     },
     {
       "id": 458,
       "name": "mantyke",
       "types": ["water", "flying"],
-      "url": "http://localhost:5000/images/mantyke.png"
+      "url": "https://cordex-be.onrender.com/images/mantyke.png"
     },
     {
       "id": 459,
       "name": "snover",
       "types": ["grass", "ice"],
-      "url": "http://localhost:5000/images/snover.png"
+      "url": "https://cordex-be.onrender.com/images/snover.png"
     },
     {
       "id": 460,
       "name": "abomasnow",
       "types": ["grass", "ice"],
-      "url": "http://localhost:5000/images/abomasnow.png"
+      "url": "https://cordex-be.onrender.com/images/abomasnow.png"
     },
     {
       "id": 461,
       "name": "weavile",
       "types": ["dark", "ice"],
-      "url": "http://localhost:5000/images/weavile.png"
+      "url": "https://cordex-be.onrender.com/images/weavile.png"
     },
     {
       "id": 462,
       "name": "magnezone",
       "types": ["electric", "steel"],
-      "url": "http://localhost:5000/images/magnezone.png"
+      "url": "https://cordex-be.onrender.com/images/magnezone.png"
     },
     {
       "id": 463,
       "name": "lickilicky",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/lickilicky.png"
+      "url": "https://cordex-be.onrender.com/images/lickilicky.png"
     },
     {
       "id": 464,
       "name": "rhyperior",
       "types": ["ground", "rock"],
-      "url": "http://localhost:5000/images/rhyperior.png"
+      "url": "https://cordex-be.onrender.com/images/rhyperior.png"
     },
     {
       "id": 465,
       "name": "tangrowth",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/tangrowth.png"
+      "url": "https://cordex-be.onrender.com/images/tangrowth.png"
     },
     {
       "id": 466,
       "name": "electivire",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/electivire.png"
+      "url": "https://cordex-be.onrender.com/images/electivire.png"
     },
     {
       "id": 467,
       "name": "magmortar",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/magmortar.png"
+      "url": "https://cordex-be.onrender.com/images/magmortar.png"
     },
     {
       "id": 468,
       "name": "togekiss",
       "types": ["fairy", "flying"],
-      "url": "http://localhost:5000/images/togekiss.png"
+      "url": "https://cordex-be.onrender.com/images/togekiss.png"
     },
     {
       "id": 469,
       "name": "yanmega",
       "types": ["bug", "flying"],
-      "url": "http://localhost:5000/images/yanmega.png"
+      "url": "https://cordex-be.onrender.com/images/yanmega.png"
     },
     {
       "id": 470,
       "name": "leafeon",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/leafeon.png"
+      "url": "https://cordex-be.onrender.com/images/leafeon.png"
     },
     {
       "id": 471,
       "name": "glaceon",
       "types": ["ice"],
-      "url": "http://localhost:5000/images/glaceon.png"
+      "url": "https://cordex-be.onrender.com/images/glaceon.png"
     },
     {
       "id": 472,
       "name": "gliscor",
       "types": ["ground", "flying"],
-      "url": "http://localhost:5000/images/gliscor.png"
+      "url": "https://cordex-be.onrender.com/images/gliscor.png"
     },
     {
       "id": 473,
       "name": "mamoswine",
       "types": ["ice", "ground"],
-      "url": "http://localhost:5000/images/mamoswine.png"
+      "url": "https://cordex-be.onrender.com/images/mamoswine.png"
     },
     {
       "id": 474,
       "name": "porygon-z",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/porygon-z.png"
+      "url": "https://cordex-be.onrender.com/images/porygon-z.png"
     },
     {
       "id": 475,
       "name": "gallade",
       "types": ["psychic", "fighting"],
-      "url": "http://localhost:5000/images/gallade.png"
+      "url": "https://cordex-be.onrender.com/images/gallade.png"
     },
     {
       "id": 476,
       "name": "probopass",
       "types": ["rock", "steel"],
-      "url": "http://localhost:5000/images/probopass.png"
+      "url": "https://cordex-be.onrender.com/images/probopass.png"
     },
     {
       "id": 477,
       "name": "dusknoir",
       "types": ["ghost"],
-      "url": "http://localhost:5000/images/dusknoir.png"
+      "url": "https://cordex-be.onrender.com/images/dusknoir.png"
     },
     {
       "id": 478,
       "name": "froslass",
       "types": ["ice", "ghost"],
-      "url": "http://localhost:5000/images/froslass.png"
+      "url": "https://cordex-be.onrender.com/images/froslass.png"
     },
     {
       "id": 479,
       "name": "rotom",
       "types": ["electric", "ghost"],
-      "url": "http://localhost:5000/images/rotom.png"
+      "url": "https://cordex-be.onrender.com/images/rotom.png"
     },
     {
       "id": 480,
       "name": "uxie",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/uxie.png"
+      "url": "https://cordex-be.onrender.com/images/uxie.png"
     },
     {
       "id": 481,
       "name": "mesprit",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/mesprit.png"
+      "url": "https://cordex-be.onrender.com/images/mesprit.png"
     },
     {
       "id": 482,
       "name": "azelf",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/azelf.png"
+      "url": "https://cordex-be.onrender.com/images/azelf.png"
     },
     {
       "id": 483,
       "name": "dialga",
       "types": ["steel", "dragon"],
-      "url": "http://localhost:5000/images/dialga.png"
+      "url": "https://cordex-be.onrender.com/images/dialga.png"
     },
     {
       "id": 484,
       "name": "palkia",
       "types": ["water", "dragon"],
-      "url": "http://localhost:5000/images/palkia.png"
+      "url": "https://cordex-be.onrender.com/images/palkia.png"
     },
     {
       "id": 485,
       "name": "heatran",
       "types": ["fire", "steel"],
-      "url": "http://localhost:5000/images/heatran.png"
+      "url": "https://cordex-be.onrender.com/images/heatran.png"
     },
     {
       "id": 486,
       "name": "regigigas",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/regigigas.png"
+      "url": "https://cordex-be.onrender.com/images/regigigas.png"
     },
     {
       "id": 487,
       "name": "giratina-altered",
       "types": ["ghost", "dragon"],
-      "url": "http://localhost:5000/images/giratina-altered.png"
+      "url": "https://cordex-be.onrender.com/images/giratina-altered.png"
     },
     {
       "id": 488,
       "name": "cresselia",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/cresselia.png"
+      "url": "https://cordex-be.onrender.com/images/cresselia.png"
     },
     {
       "id": 489,
       "name": "phione",
       "types": ["water"],
-      "url": "http://localhost:5000/images/phione.png"
+      "url": "https://cordex-be.onrender.com/images/phione.png"
     },
     {
       "id": 490,
       "name": "manaphy",
       "types": ["water"],
-      "url": "http://localhost:5000/images/manaphy.png"
+      "url": "https://cordex-be.onrender.com/images/manaphy.png"
     },
     {
       "id": 491,
       "name": "darkrai",
       "types": ["dark"],
-      "url": "http://localhost:5000/images/darkrai.png"
+      "url": "https://cordex-be.onrender.com/images/darkrai.png"
     },
     {
       "id": 492,
       "name": "shaymin-land",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/shaymin-land.png"
+      "url": "https://cordex-be.onrender.com/images/shaymin-land.png"
     },
     {
       "id": 493,
       "name": "arceus",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/arceus.png"
+      "url": "https://cordex-be.onrender.com/images/arceus.png"
     },
     {
       "id": 494,
       "name": "victini",
       "types": ["psychic", "fire"],
-      "url": "http://localhost:5000/images/victini.png"
+      "url": "https://cordex-be.onrender.com/images/victini.png"
     },
     {
       "id": 495,
       "name": "snivy",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/snivy.png"
+      "url": "https://cordex-be.onrender.com/images/snivy.png"
     },
     {
       "id": 496,
       "name": "servine",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/servine.png"
+      "url": "https://cordex-be.onrender.com/images/servine.png"
     },
     {
       "id": 497,
       "name": "serperior",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/serperior.png"
+      "url": "https://cordex-be.onrender.com/images/serperior.png"
     },
     {
       "id": 498,
       "name": "tepig",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/tepig.png"
+      "url": "https://cordex-be.onrender.com/images/tepig.png"
     },
     {
       "id": 499,
       "name": "pignite",
       "types": ["fire", "fighting"],
-      "url": "http://localhost:5000/images/pignite.png"
+      "url": "https://cordex-be.onrender.com/images/pignite.png"
     },
     {
       "id": 500,
       "name": "emboar",
       "types": ["fire", "fighting"],
-      "url": "http://localhost:5000/images/emboar.png"
+      "url": "https://cordex-be.onrender.com/images/emboar.png"
     },
     {
       "id": 501,
       "name": "oshawott",
       "types": ["water"],
-      "url": "http://localhost:5000/images/oshawott.png"
+      "url": "https://cordex-be.onrender.com/images/oshawott.png"
     },
     {
       "id": 502,
       "name": "dewott",
       "types": ["water"],
-      "url": "http://localhost:5000/images/dewott.png"
+      "url": "https://cordex-be.onrender.com/images/dewott.png"
     },
     {
       "id": 503,
       "name": "samurott",
       "types": ["water"],
-      "url": "http://localhost:5000/images/samurott.png"
+      "url": "https://cordex-be.onrender.com/images/samurott.png"
     },
     {
       "id": 504,
       "name": "patrat",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/patrat.png"
+      "url": "https://cordex-be.onrender.com/images/patrat.png"
     },
     {
       "id": 505,
       "name": "watchog",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/watchog.png"
+      "url": "https://cordex-be.onrender.com/images/watchog.png"
     },
     {
       "id": 506,
       "name": "lillipup",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/lillipup.png"
+      "url": "https://cordex-be.onrender.com/images/lillipup.png"
     },
     {
       "id": 507,
       "name": "herdier",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/herdier.png"
+      "url": "https://cordex-be.onrender.com/images/herdier.png"
     },
     {
       "id": 508,
       "name": "stoutland",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/stoutland.png"
+      "url": "https://cordex-be.onrender.com/images/stoutland.png"
     },
     {
       "id": 509,
       "name": "purrloin",
       "types": ["dark"],
-      "url": "http://localhost:5000/images/purrloin.png"
+      "url": "https://cordex-be.onrender.com/images/purrloin.png"
     },
     {
       "id": 510,
       "name": "liepard",
       "types": ["dark"],
-      "url": "http://localhost:5000/images/liepard.png"
+      "url": "https://cordex-be.onrender.com/images/liepard.png"
     },
     {
       "id": 511,
       "name": "pansage",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/pansage.png"
+      "url": "https://cordex-be.onrender.com/images/pansage.png"
     },
     {
       "id": 512,
       "name": "simisage",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/simisage.png"
+      "url": "https://cordex-be.onrender.com/images/simisage.png"
     },
     {
       "id": 513,
       "name": "pansear",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/pansear.png"
+      "url": "https://cordex-be.onrender.com/images/pansear.png"
     },
     {
       "id": 514,
       "name": "simisear",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/simisear.png"
+      "url": "https://cordex-be.onrender.com/images/simisear.png"
     },
     {
       "id": 515,
       "name": "panpour",
       "types": ["water"],
-      "url": "http://localhost:5000/images/panpour.png"
+      "url": "https://cordex-be.onrender.com/images/panpour.png"
     },
     {
       "id": 516,
       "name": "simipour",
       "types": ["water"],
-      "url": "http://localhost:5000/images/simipour.png"
+      "url": "https://cordex-be.onrender.com/images/simipour.png"
     },
     {
       "id": 517,
       "name": "munna",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/munna.png"
+      "url": "https://cordex-be.onrender.com/images/munna.png"
     },
     {
       "id": 518,
       "name": "musharna",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/musharna.png"
+      "url": "https://cordex-be.onrender.com/images/musharna.png"
     },
     {
       "id": 519,
       "name": "pidove",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/pidove.png"
+      "url": "https://cordex-be.onrender.com/images/pidove.png"
     },
     {
       "id": 520,
       "name": "tranquill",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/tranquill.png"
+      "url": "https://cordex-be.onrender.com/images/tranquill.png"
     },
     {
       "id": 521,
       "name": "unfezant",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/unfezant.png"
+      "url": "https://cordex-be.onrender.com/images/unfezant.png"
     },
     {
       "id": 522,
       "name": "blitzle",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/blitzle.png"
+      "url": "https://cordex-be.onrender.com/images/blitzle.png"
     },
     {
       "id": 523,
       "name": "zebstrika",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/zebstrika.png"
+      "url": "https://cordex-be.onrender.com/images/zebstrika.png"
     },
     {
       "id": 524,
       "name": "roggenrola",
       "types": ["rock"],
-      "url": "http://localhost:5000/images/roggenrola.png"
+      "url": "https://cordex-be.onrender.com/images/roggenrola.png"
     },
     {
       "id": 525,
       "name": "boldore",
       "types": ["rock"],
-      "url": "http://localhost:5000/images/boldore.png"
+      "url": "https://cordex-be.onrender.com/images/boldore.png"
     },
     {
       "id": 526,
       "name": "gigalith",
       "types": ["rock"],
-      "url": "http://localhost:5000/images/gigalith.png"
+      "url": "https://cordex-be.onrender.com/images/gigalith.png"
     },
     {
       "id": 527,
       "name": "woobat",
       "types": ["psychic", "flying"],
-      "url": "http://localhost:5000/images/woobat.png"
+      "url": "https://cordex-be.onrender.com/images/woobat.png"
     },
     {
       "id": 528,
       "name": "swoobat",
       "types": ["psychic", "flying"],
-      "url": "http://localhost:5000/images/swoobat.png"
+      "url": "https://cordex-be.onrender.com/images/swoobat.png"
     },
     {
       "id": 529,
       "name": "drilbur",
       "types": ["ground"],
-      "url": "http://localhost:5000/images/drilbur.png"
+      "url": "https://cordex-be.onrender.com/images/drilbur.png"
     },
     {
       "id": 530,
       "name": "excadrill",
       "types": ["ground", "steel"],
-      "url": "http://localhost:5000/images/excadrill.png"
+      "url": "https://cordex-be.onrender.com/images/excadrill.png"
     },
     {
       "id": 531,
       "name": "audino",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/audino.png"
+      "url": "https://cordex-be.onrender.com/images/audino.png"
     },
     {
       "id": 532,
       "name": "timburr",
       "types": ["fighting"],
-      "url": "http://localhost:5000/images/timburr.png"
+      "url": "https://cordex-be.onrender.com/images/timburr.png"
     },
     {
       "id": 533,
       "name": "gurdurr",
       "types": ["fighting"],
-      "url": "http://localhost:5000/images/gurdurr.png"
+      "url": "https://cordex-be.onrender.com/images/gurdurr.png"
     },
     {
       "id": 534,
       "name": "conkeldurr",
       "types": ["fighting"],
-      "url": "http://localhost:5000/images/conkeldurr.png"
+      "url": "https://cordex-be.onrender.com/images/conkeldurr.png"
     },
     {
       "id": 535,
       "name": "tympole",
       "types": ["water"],
-      "url": "http://localhost:5000/images/tympole.png"
+      "url": "https://cordex-be.onrender.com/images/tympole.png"
     },
     {
       "id": 536,
       "name": "palpitoad",
       "types": ["water", "ground"],
-      "url": "http://localhost:5000/images/palpitoad.png"
+      "url": "https://cordex-be.onrender.com/images/palpitoad.png"
     },
     {
       "id": 537,
       "name": "seismitoad",
       "types": ["water", "ground"],
-      "url": "http://localhost:5000/images/seismitoad.png"
+      "url": "https://cordex-be.onrender.com/images/seismitoad.png"
     },
     {
       "id": 538,
       "name": "throh",
       "types": ["fighting"],
-      "url": "http://localhost:5000/images/throh.png"
+      "url": "https://cordex-be.onrender.com/images/throh.png"
     },
     {
       "id": 539,
       "name": "sawk",
       "types": ["fighting"],
-      "url": "http://localhost:5000/images/sawk.png"
+      "url": "https://cordex-be.onrender.com/images/sawk.png"
     },
     {
       "id": 540,
       "name": "sewaddle",
       "types": ["bug", "grass"],
-      "url": "http://localhost:5000/images/sewaddle.png"
+      "url": "https://cordex-be.onrender.com/images/sewaddle.png"
     },
     {
       "id": 541,
       "name": "swadloon",
       "types": ["bug", "grass"],
-      "url": "http://localhost:5000/images/swadloon.png"
+      "url": "https://cordex-be.onrender.com/images/swadloon.png"
     },
     {
       "id": 542,
       "name": "leavanny",
       "types": ["bug", "grass"],
-      "url": "http://localhost:5000/images/leavanny.png"
+      "url": "https://cordex-be.onrender.com/images/leavanny.png"
     },
     {
       "id": 543,
       "name": "venipede",
       "types": ["bug", "poison"],
-      "url": "http://localhost:5000/images/venipede.png"
+      "url": "https://cordex-be.onrender.com/images/venipede.png"
     },
     {
       "id": 544,
       "name": "whirlipede",
       "types": ["bug", "poison"],
-      "url": "http://localhost:5000/images/whirlipede.png"
+      "url": "https://cordex-be.onrender.com/images/whirlipede.png"
     },
     {
       "id": 545,
       "name": "scolipede",
       "types": ["bug", "poison"],
-      "url": "http://localhost:5000/images/scolipede.png"
+      "url": "https://cordex-be.onrender.com/images/scolipede.png"
     },
     {
       "id": 546,
       "name": "cottonee",
       "types": ["grass", "fairy"],
-      "url": "http://localhost:5000/images/cottonee.png"
+      "url": "https://cordex-be.onrender.com/images/cottonee.png"
     },
     {
       "id": 547,
       "name": "whimsicott",
       "types": ["grass", "fairy"],
-      "url": "http://localhost:5000/images/whimsicott.png"
+      "url": "https://cordex-be.onrender.com/images/whimsicott.png"
     },
     {
       "id": 548,
       "name": "petilil",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/petilil.png"
+      "url": "https://cordex-be.onrender.com/images/petilil.png"
     },
     {
       "id": 549,
       "name": "lilligant",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/lilligant.png"
+      "url": "https://cordex-be.onrender.com/images/lilligant.png"
     },
     {
       "id": 550,
       "name": "basculin-red-striped",
       "types": ["water"],
-      "url": "http://localhost:5000/images/basculin-red-striped.png"
+      "url": "https://cordex-be.onrender.com/images/basculin-red-striped.png"
     },
     {
       "id": 551,
       "name": "sandile",
       "types": ["ground", "dark"],
-      "url": "http://localhost:5000/images/sandile.png"
+      "url": "https://cordex-be.onrender.com/images/sandile.png"
     },
     {
       "id": 552,
       "name": "krokorok",
       "types": ["ground", "dark"],
-      "url": "http://localhost:5000/images/krokorok.png"
+      "url": "https://cordex-be.onrender.com/images/krokorok.png"
     },
     {
       "id": 553,
       "name": "krookodile",
       "types": ["ground", "dark"],
-      "url": "http://localhost:5000/images/krookodile.png"
+      "url": "https://cordex-be.onrender.com/images/krookodile.png"
     },
     {
       "id": 554,
       "name": "darumaka",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/darumaka.png"
+      "url": "https://cordex-be.onrender.com/images/darumaka.png"
     },
     {
       "id": 555,
       "name": "darmanitan-standard",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/darmanitan-standard.png"
+      "url": "https://cordex-be.onrender.com/images/darmanitan-standard.png"
     },
     {
       "id": 556,
       "name": "maractus",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/maractus.png"
+      "url": "https://cordex-be.onrender.com/images/maractus.png"
     },
     {
       "id": 557,
       "name": "dwebble",
       "types": ["bug", "rock"],
-      "url": "http://localhost:5000/images/dwebble.png"
+      "url": "https://cordex-be.onrender.com/images/dwebble.png"
     },
     {
       "id": 558,
       "name": "crustle",
       "types": ["bug", "rock"],
-      "url": "http://localhost:5000/images/crustle.png"
+      "url": "https://cordex-be.onrender.com/images/crustle.png"
     },
     {
       "id": 559,
       "name": "scraggy",
       "types": ["dark", "fighting"],
-      "url": "http://localhost:5000/images/scraggy.png"
+      "url": "https://cordex-be.onrender.com/images/scraggy.png"
     },
     {
       "id": 560,
       "name": "scrafty",
       "types": ["dark", "fighting"],
-      "url": "http://localhost:5000/images/scrafty.png"
+      "url": "https://cordex-be.onrender.com/images/scrafty.png"
     },
     {
       "id": 561,
       "name": "sigilyph",
       "types": ["psychic", "flying"],
-      "url": "http://localhost:5000/images/sigilyph.png"
+      "url": "https://cordex-be.onrender.com/images/sigilyph.png"
     },
     {
       "id": 562,
       "name": "yamask",
       "types": ["ghost"],
-      "url": "http://localhost:5000/images/yamask.png"
+      "url": "https://cordex-be.onrender.com/images/yamask.png"
     },
     {
       "id": 563,
       "name": "cofagrigus",
       "types": ["ghost"],
-      "url": "http://localhost:5000/images/cofagrigus.png"
+      "url": "https://cordex-be.onrender.com/images/cofagrigus.png"
     },
     {
       "id": 564,
       "name": "tirtouga",
       "types": ["water", "rock"],
-      "url": "http://localhost:5000/images/tirtouga.png"
+      "url": "https://cordex-be.onrender.com/images/tirtouga.png"
     },
     {
       "id": 565,
       "name": "carracosta",
       "types": ["water", "rock"],
-      "url": "http://localhost:5000/images/carracosta.png"
+      "url": "https://cordex-be.onrender.com/images/carracosta.png"
     },
     {
       "id": 566,
       "name": "archen",
       "types": ["rock", "flying"],
-      "url": "http://localhost:5000/images/archen.png"
+      "url": "https://cordex-be.onrender.com/images/archen.png"
     },
     {
       "id": 567,
       "name": "archeops",
       "types": ["rock", "flying"],
-      "url": "http://localhost:5000/images/archeops.png"
+      "url": "https://cordex-be.onrender.com/images/archeops.png"
     },
     {
       "id": 568,
       "name": "trubbish",
       "types": ["poison"],
-      "url": "http://localhost:5000/images/trubbish.png"
+      "url": "https://cordex-be.onrender.com/images/trubbish.png"
     },
     {
       "id": 569,
       "name": "garbodor",
       "types": ["poison"],
-      "url": "http://localhost:5000/images/garbodor.png"
+      "url": "https://cordex-be.onrender.com/images/garbodor.png"
     },
     {
       "id": 570,
       "name": "zorua",
       "types": ["dark"],
-      "url": "http://localhost:5000/images/zorua.png"
+      "url": "https://cordex-be.onrender.com/images/zorua.png"
     },
     {
       "id": 571,
       "name": "zoroark",
       "types": ["dark"],
-      "url": "http://localhost:5000/images/zoroark.png"
+      "url": "https://cordex-be.onrender.com/images/zoroark.png"
     },
     {
       "id": 572,
       "name": "minccino",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/minccino.png"
+      "url": "https://cordex-be.onrender.com/images/minccino.png"
     },
     {
       "id": 573,
       "name": "cinccino",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/cinccino.png"
+      "url": "https://cordex-be.onrender.com/images/cinccino.png"
     },
     {
       "id": 574,
       "name": "gothita",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/gothita.png"
+      "url": "https://cordex-be.onrender.com/images/gothita.png"
     },
     {
       "id": 575,
       "name": "gothorita",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/gothorita.png"
+      "url": "https://cordex-be.onrender.com/images/gothorita.png"
     },
     {
       "id": 576,
       "name": "gothitelle",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/gothitelle.png"
+      "url": "https://cordex-be.onrender.com/images/gothitelle.png"
     },
     {
       "id": 577,
       "name": "solosis",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/solosis.png"
+      "url": "https://cordex-be.onrender.com/images/solosis.png"
     },
     {
       "id": 578,
       "name": "duosion",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/duosion.png"
+      "url": "https://cordex-be.onrender.com/images/duosion.png"
     },
     {
       "id": 579,
       "name": "reuniclus",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/reuniclus.png"
+      "url": "https://cordex-be.onrender.com/images/reuniclus.png"
     },
     {
       "id": 580,
       "name": "ducklett",
       "types": ["water", "flying"],
-      "url": "http://localhost:5000/images/ducklett.png"
+      "url": "https://cordex-be.onrender.com/images/ducklett.png"
     },
     {
       "id": 581,
       "name": "swanna",
       "types": ["water", "flying"],
-      "url": "http://localhost:5000/images/swanna.png"
+      "url": "https://cordex-be.onrender.com/images/swanna.png"
     },
     {
       "id": 582,
       "name": "vanillite",
       "types": ["ice"],
-      "url": "http://localhost:5000/images/vanillite.png"
+      "url": "https://cordex-be.onrender.com/images/vanillite.png"
     },
     {
       "id": 583,
       "name": "vanillish",
       "types": ["ice"],
-      "url": "http://localhost:5000/images/vanillish.png"
+      "url": "https://cordex-be.onrender.com/images/vanillish.png"
     },
     {
       "id": 584,
       "name": "vanilluxe",
       "types": ["ice"],
-      "url": "http://localhost:5000/images/vanilluxe.png"
+      "url": "https://cordex-be.onrender.com/images/vanilluxe.png"
     },
     {
       "id": 585,
       "name": "deerling",
       "types": ["normal", "grass"],
-      "url": "http://localhost:5000/images/deerling.png"
+      "url": "https://cordex-be.onrender.com/images/deerling.png"
     },
     {
       "id": 586,
       "name": "sawsbuck",
       "types": ["normal", "grass"],
-      "url": "http://localhost:5000/images/sawsbuck.png"
+      "url": "https://cordex-be.onrender.com/images/sawsbuck.png"
     },
     {
       "id": 587,
       "name": "emolga",
       "types": ["electric", "flying"],
-      "url": "http://localhost:5000/images/emolga.png"
+      "url": "https://cordex-be.onrender.com/images/emolga.png"
     },
     {
       "id": 588,
       "name": "karrablast",
       "types": ["bug"],
-      "url": "http://localhost:5000/images/karrablast.png"
+      "url": "https://cordex-be.onrender.com/images/karrablast.png"
     },
     {
       "id": 589,
       "name": "escavalier",
       "types": ["bug", "steel"],
-      "url": "http://localhost:5000/images/escavalier.png"
+      "url": "https://cordex-be.onrender.com/images/escavalier.png"
     },
     {
       "id": 590,
       "name": "foongus",
       "types": ["grass", "poison"],
-      "url": "http://localhost:5000/images/foongus.png"
+      "url": "https://cordex-be.onrender.com/images/foongus.png"
     },
     {
       "id": 591,
       "name": "amoonguss",
       "types": ["grass", "poison"],
-      "url": "http://localhost:5000/images/amoonguss.png"
+      "url": "https://cordex-be.onrender.com/images/amoonguss.png"
     },
     {
       "id": 592,
       "name": "frillish",
       "types": ["water", "ghost"],
-      "url": "http://localhost:5000/images/frillish.png"
+      "url": "https://cordex-be.onrender.com/images/frillish.png"
     },
     {
       "id": 593,
       "name": "jellicent",
       "types": ["water", "ghost"],
-      "url": "http://localhost:5000/images/jellicent.png"
+      "url": "https://cordex-be.onrender.com/images/jellicent.png"
     },
     {
       "id": 594,
       "name": "alomomola",
       "types": ["water"],
-      "url": "http://localhost:5000/images/alomomola.png"
+      "url": "https://cordex-be.onrender.com/images/alomomola.png"
     },
     {
       "id": 595,
       "name": "joltik",
       "types": ["bug", "electric"],
-      "url": "http://localhost:5000/images/joltik.png"
+      "url": "https://cordex-be.onrender.com/images/joltik.png"
     },
     {
       "id": 596,
       "name": "galvantula",
       "types": ["bug", "electric"],
-      "url": "http://localhost:5000/images/galvantula.png"
+      "url": "https://cordex-be.onrender.com/images/galvantula.png"
     },
     {
       "id": 597,
       "name": "ferroseed",
       "types": ["grass", "steel"],
-      "url": "http://localhost:5000/images/ferroseed.png"
+      "url": "https://cordex-be.onrender.com/images/ferroseed.png"
     },
     {
       "id": 598,
       "name": "ferrothorn",
       "types": ["grass", "steel"],
-      "url": "http://localhost:5000/images/ferrothorn.png"
+      "url": "https://cordex-be.onrender.com/images/ferrothorn.png"
     },
     {
       "id": 599,
       "name": "klink",
       "types": ["steel"],
-      "url": "http://localhost:5000/images/klink.png"
+      "url": "https://cordex-be.onrender.com/images/klink.png"
     },
     {
       "id": 600,
       "name": "klang",
       "types": ["steel"],
-      "url": "http://localhost:5000/images/klang.png"
+      "url": "https://cordex-be.onrender.com/images/klang.png"
     },
     {
       "id": 601,
       "name": "klinklang",
       "types": ["steel"],
-      "url": "http://localhost:5000/images/klinklang.png"
+      "url": "https://cordex-be.onrender.com/images/klinklang.png"
     },
     {
       "id": 602,
       "name": "tynamo",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/tynamo.png"
+      "url": "https://cordex-be.onrender.com/images/tynamo.png"
     },
     {
       "id": 603,
       "name": "eelektrik",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/eelektrik.png"
+      "url": "https://cordex-be.onrender.com/images/eelektrik.png"
     },
     {
       "id": 604,
       "name": "eelektross",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/eelektross.png"
+      "url": "https://cordex-be.onrender.com/images/eelektross.png"
     },
     {
       "id": 605,
       "name": "elgyem",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/elgyem.png"
+      "url": "https://cordex-be.onrender.com/images/elgyem.png"
     },
     {
       "id": 606,
       "name": "beheeyem",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/beheeyem.png"
+      "url": "https://cordex-be.onrender.com/images/beheeyem.png"
     },
     {
       "id": 607,
       "name": "litwick",
       "types": ["ghost", "fire"],
-      "url": "http://localhost:5000/images/litwick.png"
+      "url": "https://cordex-be.onrender.com/images/litwick.png"
     },
     {
       "id": 608,
       "name": "lampent",
       "types": ["ghost", "fire"],
-      "url": "http://localhost:5000/images/lampent.png"
+      "url": "https://cordex-be.onrender.com/images/lampent.png"
     },
     {
       "id": 609,
       "name": "chandelure",
       "types": ["ghost", "fire"],
-      "url": "http://localhost:5000/images/chandelure.png"
+      "url": "https://cordex-be.onrender.com/images/chandelure.png"
     },
     {
       "id": 610,
       "name": "axew",
       "types": ["dragon"],
-      "url": "http://localhost:5000/images/axew.png"
+      "url": "https://cordex-be.onrender.com/images/axew.png"
     },
     {
       "id": 611,
       "name": "fraxure",
       "types": ["dragon"],
-      "url": "http://localhost:5000/images/fraxure.png"
+      "url": "https://cordex-be.onrender.com/images/fraxure.png"
     },
     {
       "id": 612,
       "name": "haxorus",
       "types": ["dragon"],
-      "url": "http://localhost:5000/images/haxorus.png"
+      "url": "https://cordex-be.onrender.com/images/haxorus.png"
     },
     {
       "id": 613,
       "name": "cubchoo",
       "types": ["ice"],
-      "url": "http://localhost:5000/images/cubchoo.png"
+      "url": "https://cordex-be.onrender.com/images/cubchoo.png"
     },
     {
       "id": 614,
       "name": "beartic",
       "types": ["ice"],
-      "url": "http://localhost:5000/images/beartic.png"
+      "url": "https://cordex-be.onrender.com/images/beartic.png"
     },
     {
       "id": 615,
       "name": "cryogonal",
       "types": ["ice"],
-      "url": "http://localhost:5000/images/cryogonal.png"
+      "url": "https://cordex-be.onrender.com/images/cryogonal.png"
     },
     {
       "id": 616,
       "name": "shelmet",
       "types": ["bug"],
-      "url": "http://localhost:5000/images/shelmet.png"
+      "url": "https://cordex-be.onrender.com/images/shelmet.png"
     },
     {
       "id": 617,
       "name": "accelgor",
       "types": ["bug"],
-      "url": "http://localhost:5000/images/accelgor.png"
+      "url": "https://cordex-be.onrender.com/images/accelgor.png"
     },
     {
       "id": 618,
       "name": "stunfisk",
       "types": ["ground", "electric"],
-      "url": "http://localhost:5000/images/stunfisk.png"
+      "url": "https://cordex-be.onrender.com/images/stunfisk.png"
     },
     {
       "id": 619,
       "name": "mienfoo",
       "types": ["fighting"],
-      "url": "http://localhost:5000/images/mienfoo.png"
+      "url": "https://cordex-be.onrender.com/images/mienfoo.png"
     },
     {
       "id": 620,
       "name": "mienshao",
       "types": ["fighting"],
-      "url": "http://localhost:5000/images/mienshao.png"
+      "url": "https://cordex-be.onrender.com/images/mienshao.png"
     },
     {
       "id": 621,
       "name": "druddigon",
       "types": ["dragon"],
-      "url": "http://localhost:5000/images/druddigon.png"
+      "url": "https://cordex-be.onrender.com/images/druddigon.png"
     },
     {
       "id": 622,
       "name": "golett",
       "types": ["ground", "ghost"],
-      "url": "http://localhost:5000/images/golett.png"
+      "url": "https://cordex-be.onrender.com/images/golett.png"
     },
     {
       "id": 623,
       "name": "golurk",
       "types": ["ground", "ghost"],
-      "url": "http://localhost:5000/images/golurk.png"
+      "url": "https://cordex-be.onrender.com/images/golurk.png"
     },
     {
       "id": 624,
       "name": "pawniard",
       "types": ["dark", "steel"],
-      "url": "http://localhost:5000/images/pawniard.png"
+      "url": "https://cordex-be.onrender.com/images/pawniard.png"
     },
     {
       "id": 625,
       "name": "bisharp",
       "types": ["dark", "steel"],
-      "url": "http://localhost:5000/images/bisharp.png"
+      "url": "https://cordex-be.onrender.com/images/bisharp.png"
     },
     {
       "id": 626,
       "name": "bouffalant",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/bouffalant.png"
+      "url": "https://cordex-be.onrender.com/images/bouffalant.png"
     },
     {
       "id": 627,
       "name": "rufflet",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/rufflet.png"
+      "url": "https://cordex-be.onrender.com/images/rufflet.png"
     },
     {
       "id": 628,
       "name": "braviary",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/braviary.png"
+      "url": "https://cordex-be.onrender.com/images/braviary.png"
     },
     {
       "id": 629,
       "name": "vullaby",
       "types": ["dark", "flying"],
-      "url": "http://localhost:5000/images/vullaby.png"
+      "url": "https://cordex-be.onrender.com/images/vullaby.png"
     },
     {
       "id": 630,
       "name": "mandibuzz",
       "types": ["dark", "flying"],
-      "url": "http://localhost:5000/images/mandibuzz.png"
+      "url": "https://cordex-be.onrender.com/images/mandibuzz.png"
     },
     {
       "id": 631,
       "name": "heatmor",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/heatmor.png"
+      "url": "https://cordex-be.onrender.com/images/heatmor.png"
     },
     {
       "id": 632,
       "name": "durant",
       "types": ["bug", "steel"],
-      "url": "http://localhost:5000/images/durant.png"
+      "url": "https://cordex-be.onrender.com/images/durant.png"
     },
     {
       "id": 633,
       "name": "deino",
       "types": ["dark", "dragon"],
-      "url": "http://localhost:5000/images/deino.png"
+      "url": "https://cordex-be.onrender.com/images/deino.png"
     },
     {
       "id": 634,
       "name": "zweilous",
       "types": ["dark", "dragon"],
-      "url": "http://localhost:5000/images/zweilous.png"
+      "url": "https://cordex-be.onrender.com/images/zweilous.png"
     },
     {
       "id": 635,
       "name": "hydreigon",
       "types": ["dark", "dragon"],
-      "url": "http://localhost:5000/images/hydreigon.png"
+      "url": "https://cordex-be.onrender.com/images/hydreigon.png"
     },
     {
       "id": 636,
       "name": "larvesta",
       "types": ["bug", "fire"],
-      "url": "http://localhost:5000/images/larvesta.png"
+      "url": "https://cordex-be.onrender.com/images/larvesta.png"
     },
     {
       "id": 637,
       "name": "volcarona",
       "types": ["bug", "fire"],
-      "url": "http://localhost:5000/images/volcarona.png"
+      "url": "https://cordex-be.onrender.com/images/volcarona.png"
     },
     {
       "id": 638,
       "name": "cobalion",
       "types": ["steel", "fighting"],
-      "url": "http://localhost:5000/images/cobalion.png"
+      "url": "https://cordex-be.onrender.com/images/cobalion.png"
     },
     {
       "id": 639,
       "name": "terrakion",
       "types": ["rock", "fighting"],
-      "url": "http://localhost:5000/images/terrakion.png"
+      "url": "https://cordex-be.onrender.com/images/terrakion.png"
     },
     {
       "id": 640,
       "name": "virizion",
       "types": ["grass", "fighting"],
-      "url": "http://localhost:5000/images/virizion.png"
+      "url": "https://cordex-be.onrender.com/images/virizion.png"
     },
     {
       "id": 641,
       "name": "tornadus-incarnate",
       "types": ["flying"],
-      "url": "http://localhost:5000/images/tornadus-incarnate.png"
+      "url": "https://cordex-be.onrender.com/images/tornadus-incarnate.png"
     },
     {
       "id": 642,
       "name": "thundurus-incarnate",
       "types": ["electric", "flying"],
-      "url": "http://localhost:5000/images/thundurus-incarnate.png"
+      "url": "https://cordex-be.onrender.com/images/thundurus-incarnate.png"
     },
     {
       "id": 643,
       "name": "reshiram",
       "types": ["dragon", "fire"],
-      "url": "http://localhost:5000/images/reshiram.png"
+      "url": "https://cordex-be.onrender.com/images/reshiram.png"
     },
     {
       "id": 644,
       "name": "zekrom",
       "types": ["dragon", "electric"],
-      "url": "http://localhost:5000/images/zekrom.png"
+      "url": "https://cordex-be.onrender.com/images/zekrom.png"
     },
     {
       "id": 645,
       "name": "landorus-incarnate",
       "types": ["ground", "flying"],
-      "url": "http://localhost:5000/images/landorus-incarnate.png"
+      "url": "https://cordex-be.onrender.com/images/landorus-incarnate.png"
     },
     {
       "id": 646,
       "name": "kyurem",
       "types": ["dragon", "ice"],
-      "url": "http://localhost:5000/images/kyurem.png"
+      "url": "https://cordex-be.onrender.com/images/kyurem.png"
     },
     {
       "id": 647,
       "name": "keldeo-ordinary",
       "types": ["water", "fighting"],
-      "url": "http://localhost:5000/images/keldeo-ordinary.png"
+      "url": "https://cordex-be.onrender.com/images/keldeo-ordinary.png"
     },
     {
       "id": 648,
       "name": "meloetta-aria",
       "types": ["normal", "psychic"],
-      "url": "http://localhost:5000/images/meloetta-aria.png"
+      "url": "https://cordex-be.onrender.com/images/meloetta-aria.png"
     },
     {
       "id": 649,
       "name": "genesect",
       "types": ["bug", "steel"],
-      "url": "http://localhost:5000/images/genesect.png"
+      "url": "https://cordex-be.onrender.com/images/genesect.png"
     },
     {
       "id": 650,
       "name": "chespin",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/chespin.png"
+      "url": "https://cordex-be.onrender.com/images/chespin.png"
     },
     {
       "id": 651,
       "name": "quilladin",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/quilladin.png"
+      "url": "https://cordex-be.onrender.com/images/quilladin.png"
     },
     {
       "id": 652,
       "name": "chesnaught",
       "types": ["grass", "fighting"],
-      "url": "http://localhost:5000/images/chesnaught.png"
+      "url": "https://cordex-be.onrender.com/images/chesnaught.png"
     },
     {
       "id": 653,
       "name": "fennekin",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/fennekin.png"
+      "url": "https://cordex-be.onrender.com/images/fennekin.png"
     },
     {
       "id": 654,
       "name": "braixen",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/braixen.png"
+      "url": "https://cordex-be.onrender.com/images/braixen.png"
     },
     {
       "id": 655,
       "name": "delphox",
       "types": ["fire", "psychic"],
-      "url": "http://localhost:5000/images/delphox.png"
+      "url": "https://cordex-be.onrender.com/images/delphox.png"
     },
     {
       "id": 656,
       "name": "froakie",
       "types": ["water"],
-      "url": "http://localhost:5000/images/froakie.png"
+      "url": "https://cordex-be.onrender.com/images/froakie.png"
     },
     {
       "id": 657,
       "name": "frogadier",
       "types": ["water"],
-      "url": "http://localhost:5000/images/frogadier.png"
+      "url": "https://cordex-be.onrender.com/images/frogadier.png"
     },
     {
       "id": 658,
       "name": "greninja",
       "types": ["water", "dark"],
-      "url": "http://localhost:5000/images/greninja.png"
+      "url": "https://cordex-be.onrender.com/images/greninja.png"
     },
     {
       "id": 659,
       "name": "bunnelby",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/bunnelby.png"
+      "url": "https://cordex-be.onrender.com/images/bunnelby.png"
     },
     {
       "id": 660,
       "name": "diggersby",
       "types": ["normal", "ground"],
-      "url": "http://localhost:5000/images/diggersby.png"
+      "url": "https://cordex-be.onrender.com/images/diggersby.png"
     },
     {
       "id": 661,
       "name": "fletchling",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/fletchling.png"
+      "url": "https://cordex-be.onrender.com/images/fletchling.png"
     },
     {
       "id": 662,
       "name": "fletchinder",
       "types": ["fire", "flying"],
-      "url": "http://localhost:5000/images/fletchinder.png"
+      "url": "https://cordex-be.onrender.com/images/fletchinder.png"
     },
     {
       "id": 663,
       "name": "talonflame",
       "types": ["fire", "flying"],
-      "url": "http://localhost:5000/images/talonflame.png"
+      "url": "https://cordex-be.onrender.com/images/talonflame.png"
     },
     {
       "id": 664,
       "name": "scatterbug",
       "types": ["bug"],
-      "url": "http://localhost:5000/images/scatterbug.png"
+      "url": "https://cordex-be.onrender.com/images/scatterbug.png"
     },
     {
       "id": 665,
       "name": "spewpa",
       "types": ["bug"],
-      "url": "http://localhost:5000/images/spewpa.png"
+      "url": "https://cordex-be.onrender.com/images/spewpa.png"
     },
     {
       "id": 666,
       "name": "vivillon",
       "types": ["bug", "flying"],
-      "url": "http://localhost:5000/images/vivillon.png"
+      "url": "https://cordex-be.onrender.com/images/vivillon.png"
     },
     {
       "id": 667,
       "name": "litleo",
       "types": ["fire", "normal"],
-      "url": "http://localhost:5000/images/litleo.png"
+      "url": "https://cordex-be.onrender.com/images/litleo.png"
     },
     {
       "id": 668,
       "name": "pyroar",
       "types": ["fire", "normal"],
-      "url": "http://localhost:5000/images/pyroar.png"
+      "url": "https://cordex-be.onrender.com/images/pyroar.png"
     },
     {
       "id": 669,
       "name": "flabebe",
       "types": ["fairy"],
-      "url": "http://localhost:5000/images/flabebe.png"
+      "url": "https://cordex-be.onrender.com/images/flabebe.png"
     },
     {
       "id": 670,
       "name": "floette",
       "types": ["fairy"],
-      "url": "http://localhost:5000/images/floette.png"
+      "url": "https://cordex-be.onrender.com/images/floette.png"
     },
     {
       "id": 671,
       "name": "florges",
       "types": ["fairy"],
-      "url": "http://localhost:5000/images/florges.png"
+      "url": "https://cordex-be.onrender.com/images/florges.png"
     },
     {
       "id": 672,
       "name": "skiddo",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/skiddo.png"
+      "url": "https://cordex-be.onrender.com/images/skiddo.png"
     },
     {
       "id": 673,
       "name": "gogoat",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/gogoat.png"
+      "url": "https://cordex-be.onrender.com/images/gogoat.png"
     },
     {
       "id": 674,
       "name": "pancham",
       "types": ["fighting"],
-      "url": "http://localhost:5000/images/pancham.png"
+      "url": "https://cordex-be.onrender.com/images/pancham.png"
     },
     {
       "id": 675,
       "name": "pangoro",
       "types": ["fighting", "dark"],
-      "url": "http://localhost:5000/images/pangoro.png"
+      "url": "https://cordex-be.onrender.com/images/pangoro.png"
     },
     {
       "id": 676,
       "name": "furfrou",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/furfrou.png"
+      "url": "https://cordex-be.onrender.com/images/furfrou.png"
     },
     {
       "id": 677,
       "name": "espurr",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/espurr.png"
+      "url": "https://cordex-be.onrender.com/images/espurr.png"
     },
     {
       "id": 678,
       "name": "meowstic-male",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/meowstic-male.png"
+      "url": "https://cordex-be.onrender.com/images/meowstic-male.png"
     },
     {
       "id": 679,
       "name": "honedge",
       "types": ["steel", "ghost"],
-      "url": "http://localhost:5000/images/honedge.png"
+      "url": "https://cordex-be.onrender.com/images/honedge.png"
     },
     {
       "id": 680,
       "name": "doublade",
       "types": ["steel", "ghost"],
-      "url": "http://localhost:5000/images/doublade.png"
+      "url": "https://cordex-be.onrender.com/images/doublade.png"
     },
     {
       "id": 681,
       "name": "aegislash-blade",
       "types": ["steel", "ghost"],
-      "url": "http://localhost:5000/images/aegislash-blade.png"
+      "url": "https://cordex-be.onrender.com/images/aegislash-blade.png"
     },
     {
       "id": 682,
       "name": "spritzee",
       "types": ["fairy"],
-      "url": "http://localhost:5000/images/spritzee.png"
+      "url": "https://cordex-be.onrender.com/images/spritzee.png"
     },
     {
       "id": 683,
       "name": "aromatisse",
       "types": ["fairy"],
-      "url": "http://localhost:5000/images/aromatisse.png"
+      "url": "https://cordex-be.onrender.com/images/aromatisse.png"
     },
     {
       "id": 684,
       "name": "swirlix",
       "types": ["fairy"],
-      "url": "http://localhost:5000/images/swirlix.png"
+      "url": "https://cordex-be.onrender.com/images/swirlix.png"
     },
     {
       "id": 685,
       "name": "slurpuff",
       "types": ["fairy"],
-      "url": "http://localhost:5000/images/slurpuff.png"
+      "url": "https://cordex-be.onrender.com/images/slurpuff.png"
     },
     {
       "id": 686,
       "name": "inkay",
       "types": ["dark", "psychic"],
-      "url": "http://localhost:5000/images/inkay.png"
+      "url": "https://cordex-be.onrender.com/images/inkay.png"
     },
     {
       "id": 687,
       "name": "malamar",
       "types": ["dark", "psychic"],
-      "url": "http://localhost:5000/images/malamar.png"
+      "url": "https://cordex-be.onrender.com/images/malamar.png"
     },
     {
       "id": 688,
       "name": "binacle",
       "types": ["rock", "water"],
-      "url": "http://localhost:5000/images/binacle.png"
+      "url": "https://cordex-be.onrender.com/images/binacle.png"
     },
     {
       "id": 689,
       "name": "barbaracle",
       "types": ["rock", "water"],
-      "url": "http://localhost:5000/images/barbaracle.png"
+      "url": "https://cordex-be.onrender.com/images/barbaracle.png"
     },
     {
       "id": 690,
       "name": "skrelp",
       "types": ["poison", "water"],
-      "url": "http://localhost:5000/images/skrelp.png"
+      "url": "https://cordex-be.onrender.com/images/skrelp.png"
     },
     {
       "id": 691,
       "name": "dragalge",
       "types": ["poison", "dragon"],
-      "url": "http://localhost:5000/images/dragalge.png"
+      "url": "https://cordex-be.onrender.com/images/dragalge.png"
     },
     {
       "id": 692,
       "name": "clauncher",
       "types": ["water"],
-      "url": "http://localhost:5000/images/clauncher.png"
+      "url": "https://cordex-be.onrender.com/images/clauncher.png"
     },
     {
       "id": 693,
       "name": "clawitzer",
       "types": ["water"],
-      "url": "http://localhost:5000/images/clawitzer.png"
+      "url": "https://cordex-be.onrender.com/images/clawitzer.png"
     },
     {
       "id": 694,
       "name": "helioptile",
       "types": ["electric", "normal"],
-      "url": "http://localhost:5000/images/helioptile.png"
+      "url": "https://cordex-be.onrender.com/images/helioptile.png"
     },
     {
       "id": 695,
       "name": "heliolisk",
       "types": ["electric", "normal"],
-      "url": "http://localhost:5000/images/heliolisk.png"
+      "url": "https://cordex-be.onrender.com/images/heliolisk.png"
     },
     {
       "id": 696,
       "name": "tyrunt",
       "types": ["rock", "dragon"],
-      "url": "http://localhost:5000/images/tyrunt.png"
+      "url": "https://cordex-be.onrender.com/images/tyrunt.png"
     },
     {
       "id": 697,
       "name": "tyrantrum",
       "types": ["rock", "dragon"],
-      "url": "http://localhost:5000/images/tyrantrum.png"
+      "url": "https://cordex-be.onrender.com/images/tyrantrum.png"
     },
     {
       "id": 698,
       "name": "amaura",
       "types": ["rock", "ice"],
-      "url": "http://localhost:5000/images/amaura.png"
+      "url": "https://cordex-be.onrender.com/images/amaura.png"
     },
     {
       "id": 699,
       "name": "aurorus",
       "types": ["rock", "ice"],
-      "url": "http://localhost:5000/images/aurorus.png"
+      "url": "https://cordex-be.onrender.com/images/aurorus.png"
     },
     {
       "id": 700,
       "name": "sylveon",
       "types": ["fairy"],
-      "url": "http://localhost:5000/images/sylveon.png"
+      "url": "https://cordex-be.onrender.com/images/sylveon.png"
     },
     {
       "id": 701,
       "name": "hawlucha",
       "types": ["fighting", "flying"],
-      "url": "http://localhost:5000/images/hawlucha.png"
+      "url": "https://cordex-be.onrender.com/images/hawlucha.png"
     },
     {
       "id": 702,
       "name": "dedenne",
       "types": ["electric", "fairy"],
-      "url": "http://localhost:5000/images/dedenne.png"
+      "url": "https://cordex-be.onrender.com/images/dedenne.png"
     },
     {
       "id": 703,
       "name": "carbink",
       "types": ["rock", "fairy"],
-      "url": "http://localhost:5000/images/carbink.png"
+      "url": "https://cordex-be.onrender.com/images/carbink.png"
     },
     {
       "id": 704,
       "name": "goomy",
       "types": ["dragon"],
-      "url": "http://localhost:5000/images/goomy.png"
+      "url": "https://cordex-be.onrender.com/images/goomy.png"
     },
     {
       "id": 705,
       "name": "sliggoo",
       "types": ["dragon"],
-      "url": "http://localhost:5000/images/sliggoo.png"
+      "url": "https://cordex-be.onrender.com/images/sliggoo.png"
     },
     {
       "id": 706,
       "name": "goodra",
       "types": ["dragon"],
-      "url": "http://localhost:5000/images/goodra.png"
+      "url": "https://cordex-be.onrender.com/images/goodra.png"
     },
     {
       "id": 707,
       "name": "klefki",
       "types": ["steel", "fairy"],
-      "url": "http://localhost:5000/images/klefki.png"
+      "url": "https://cordex-be.onrender.com/images/klefki.png"
     },
     {
       "id": 708,
       "name": "phantump",
       "types": ["ghost", "grass"],
-      "url": "http://localhost:5000/images/phantump.png"
+      "url": "https://cordex-be.onrender.com/images/phantump.png"
     },
     {
       "id": 709,
       "name": "trevenant",
       "types": ["ghost", "grass"],
-      "url": "http://localhost:5000/images/trevenant.png"
+      "url": "https://cordex-be.onrender.com/images/trevenant.png"
     },
     {
       "id": 710,
       "name": "pumpkaboo-average",
       "types": ["ghost", "grass"],
-      "url": "http://localhost:5000/images/pumpkaboo-average.png"
+      "url": "https://cordex-be.onrender.com/images/pumpkaboo-average.png"
     },
     {
       "id": 711,
       "name": "gourgeist-average",
       "types": ["ghost", "grass"],
-      "url": "http://localhost:5000/images/gourgeist-average.png"
+      "url": "https://cordex-be.onrender.com/images/gourgeist-average.png"
     },
     {
       "id": 712,
       "name": "bergmite",
       "types": ["ice"],
-      "url": "http://localhost:5000/images/bergmite.png"
+      "url": "https://cordex-be.onrender.com/images/bergmite.png"
     },
     {
       "id": 713,
       "name": "avalugg",
       "types": ["ice"],
-      "url": "http://localhost:5000/images/avalugg.png"
+      "url": "https://cordex-be.onrender.com/images/avalugg.png"
     },
     {
       "id": 714,
       "name": "noibat",
       "types": ["flying", "dragon"],
-      "url": "http://localhost:5000/images/noibat.png"
+      "url": "https://cordex-be.onrender.com/images/noibat.png"
     },
     {
       "id": 715,
       "name": "noivern",
       "types": ["flying", "dragon"],
-      "url": "http://localhost:5000/images/noivern.png"
+      "url": "https://cordex-be.onrender.com/images/noivern.png"
     },
     {
       "id": 716,
       "name": "xerneas",
       "types": ["fairy"],
-      "url": "http://localhost:5000/images/xerneas.png"
+      "url": "https://cordex-be.onrender.com/images/xerneas.png"
     },
     {
       "id": 717,
       "name": "yveltal",
       "types": ["dark", "flying"],
-      "url": "http://localhost:5000/images/yveltal.png"
+      "url": "https://cordex-be.onrender.com/images/yveltal.png"
     },
     {
       "id": 718,
       "name": "zygarde-50",
       "types": ["dragon", "ground"],
-      "url": "http://localhost:5000/images/zygarde-50.png"
+      "url": "https://cordex-be.onrender.com/images/zygarde-50.png"
     },
     {
       "id": 719,
       "name": "diancie",
       "types": ["rock", "fairy"],
-      "url": "http://localhost:5000/images/diancie.png"
+      "url": "https://cordex-be.onrender.com/images/diancie.png"
     },
     {
       "id": 720,
       "name": "hoopa-confined",
       "types": ["psychic", "ghost"],
-      "url": "http://localhost:5000/images/hoopa-confined.png"
+      "url": "https://cordex-be.onrender.com/images/hoopa-confined.png"
     },
     {
       "id": 721,
       "name": "volcanion",
       "types": ["fire", "water"],
-      "url": "http://localhost:5000/images/volcanion.png"
+      "url": "https://cordex-be.onrender.com/images/volcanion.png"
     },
     {
       "id": 722,
       "name": "rowlet",
       "types": ["grass", "flying"],
-      "url": "http://localhost:5000/images/rowlet.png"
+      "url": "https://cordex-be.onrender.com/images/rowlet.png"
     },
     {
       "id": 723,
       "name": "dartrix",
       "types": ["grass", "flying"],
-      "url": "http://localhost:5000/images/dartrix.png"
+      "url": "https://cordex-be.onrender.com/images/dartrix.png"
     },
     {
       "id": 724,
       "name": "decidueye",
       "types": ["grass", "ghost"],
-      "url": "http://localhost:5000/images/decidueye.png"
+      "url": "https://cordex-be.onrender.com/images/decidueye.png"
     },
     {
       "id": 725,
       "name": "litten",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/litten.png"
+      "url": "https://cordex-be.onrender.com/images/litten.png"
     },
     {
       "id": 726,
       "name": "torracat",
       "types": ["fire"],
-      "url": "http://localhost:5000/images/torracat.png"
+      "url": "https://cordex-be.onrender.com/images/torracat.png"
     },
     {
       "id": 727,
       "name": "incineroar",
       "types": ["fire", "dark"],
-      "url": "http://localhost:5000/images/incineroar.png"
+      "url": "https://cordex-be.onrender.com/images/incineroar.png"
     },
     {
       "id": 728,
       "name": "popplio",
       "types": ["water"],
-      "url": "http://localhost:5000/images/popplio.png"
+      "url": "https://cordex-be.onrender.com/images/popplio.png"
     },
     {
       "id": 729,
       "name": "brionne",
       "types": ["water"],
-      "url": "http://localhost:5000/images/brionne.png"
+      "url": "https://cordex-be.onrender.com/images/brionne.png"
     },
     {
       "id": 730,
       "name": "primarina",
       "types": ["water", "fairy"],
-      "url": "http://localhost:5000/images/primarina.png"
+      "url": "https://cordex-be.onrender.com/images/primarina.png"
     },
     {
       "id": 731,
       "name": "pikipek",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/pikipek.png"
+      "url": "https://cordex-be.onrender.com/images/pikipek.png"
     },
     {
       "id": 732,
       "name": "trumbeak",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/trumbeak.png"
+      "url": "https://cordex-be.onrender.com/images/trumbeak.png"
     },
     {
       "id": 733,
       "name": "toucannon",
       "types": ["normal", "flying"],
-      "url": "http://localhost:5000/images/toucannon.png"
+      "url": "https://cordex-be.onrender.com/images/toucannon.png"
     },
     {
       "id": 734,
       "name": "yungoos",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/yungoos.png"
+      "url": "https://cordex-be.onrender.com/images/yungoos.png"
     },
     {
       "id": 735,
       "name": "gumshoos",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/gumshoos.png"
+      "url": "https://cordex-be.onrender.com/images/gumshoos.png"
     },
     {
       "id": 736,
       "name": "grubbin",
       "types": ["bug"],
-      "url": "http://localhost:5000/images/grubbin.png"
+      "url": "https://cordex-be.onrender.com/images/grubbin.png"
     },
     {
       "id": 737,
       "name": "charjabug",
       "types": ["bug", "electric"],
-      "url": "http://localhost:5000/images/charjabug.png"
+      "url": "https://cordex-be.onrender.com/images/charjabug.png"
     },
     {
       "id": 738,
       "name": "vikavolt",
       "types": ["bug", "electric"],
-      "url": "http://localhost:5000/images/vikavolt.png"
+      "url": "https://cordex-be.onrender.com/images/vikavolt.png"
     },
     {
       "id": 739,
       "name": "crabrawler",
       "types": ["fighting"],
-      "url": "http://localhost:5000/images/crabrawler.png"
+      "url": "https://cordex-be.onrender.com/images/crabrawler.png"
     },
     {
       "id": 740,
       "name": "crabominable",
       "types": ["fighting", "ice"],
-      "url": "http://localhost:5000/images/crabominable.png"
+      "url": "https://cordex-be.onrender.com/images/crabominable.png"
     },
     {
       "id": 741,
       "name": "oricorio-baile",
       "types": ["fire", "flying"],
-      "url": "http://localhost:5000/images/oricorio-baile.png"
+      "url": "https://cordex-be.onrender.com/images/oricorio-baile.png"
     },
     {
       "id": 742,
       "name": "cutiefly",
       "types": ["bug", "fairy"],
-      "url": "http://localhost:5000/images/cutiefly.png"
+      "url": "https://cordex-be.onrender.com/images/cutiefly.png"
     },
     {
       "id": 743,
       "name": "ribombee",
       "types": ["bug", "fairy"],
-      "url": "http://localhost:5000/images/ribombee.png"
+      "url": "https://cordex-be.onrender.com/images/ribombee.png"
     },
     {
       "id": 744,
       "name": "rockruff",
       "types": ["rock"],
-      "url": "http://localhost:5000/images/rockruff.png"
+      "url": "https://cordex-be.onrender.com/images/rockruff.png"
     },
     {
       "id": 745,
       "name": "lycanroc-midday",
       "types": ["rock"],
-      "url": "http://localhost:5000/images/lycanroc-midday.png"
+      "url": "https://cordex-be.onrender.com/images/lycanroc-midday.png"
     },
     {
       "id": 746,
       "name": "wishiwashi-solo",
       "types": ["water"],
-      "url": "http://localhost:5000/images/wishiwashi-solo.png"
+      "url": "https://cordex-be.onrender.com/images/wishiwashi-solo.png"
     },
     {
       "id": 747,
       "name": "mareanie",
       "types": ["poison", "water"],
-      "url": "http://localhost:5000/images/mareanie.png"
+      "url": "https://cordex-be.onrender.com/images/mareanie.png"
     },
     {
       "id": 748,
       "name": "toxapex",
       "types": ["poison", "water"],
-      "url": "http://localhost:5000/images/toxapex.png"
+      "url": "https://cordex-be.onrender.com/images/toxapex.png"
     },
     {
       "id": 749,
       "name": "mudbray",
       "types": ["ground"],
-      "url": "http://localhost:5000/images/mudbray.png"
+      "url": "https://cordex-be.onrender.com/images/mudbray.png"
     },
     {
       "id": 750,
       "name": "mudsdale",
       "types": ["ground"],
-      "url": "http://localhost:5000/images/mudsdale.png"
+      "url": "https://cordex-be.onrender.com/images/mudsdale.png"
     },
     {
       "id": 751,
       "name": "dewpider",
       "types": ["water", "bug"],
-      "url": "http://localhost:5000/images/dewpider.png"
+      "url": "https://cordex-be.onrender.com/images/dewpider.png"
     },
     {
       "id": 752,
       "name": "araquanid",
       "types": ["water", "bug"],
-      "url": "http://localhost:5000/images/araquanid.png"
+      "url": "https://cordex-be.onrender.com/images/araquanid.png"
     },
     {
       "id": 753,
       "name": "fomantis",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/fomantis.png"
+      "url": "https://cordex-be.onrender.com/images/fomantis.png"
     },
     {
       "id": 754,
       "name": "lurantis",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/lurantis.png"
+      "url": "https://cordex-be.onrender.com/images/lurantis.png"
     },
     {
       "id": 755,
       "name": "morelull",
       "types": ["grass", "fairy"],
-      "url": "http://localhost:5000/images/morelull.png"
+      "url": "https://cordex-be.onrender.com/images/morelull.png"
     },
     {
       "id": 756,
       "name": "shiinotic",
       "types": ["grass", "fairy"],
-      "url": "http://localhost:5000/images/shiinotic.png"
+      "url": "https://cordex-be.onrender.com/images/shiinotic.png"
     },
     {
       "id": 757,
       "name": "salandit",
       "types": ["poison", "fire"],
-      "url": "http://localhost:5000/images/salandit.png"
+      "url": "https://cordex-be.onrender.com/images/salandit.png"
     },
     {
       "id": 758,
       "name": "salazzle",
       "types": ["poison", "fire"],
-      "url": "http://localhost:5000/images/salazzle.png"
+      "url": "https://cordex-be.onrender.com/images/salazzle.png"
     },
     {
       "id": 759,
       "name": "stufful",
       "types": ["normal", "fighting"],
-      "url": "http://localhost:5000/images/stufful.png"
+      "url": "https://cordex-be.onrender.com/images/stufful.png"
     },
     {
       "id": 760,
       "name": "bewear",
       "types": ["normal", "fighting"],
-      "url": "http://localhost:5000/images/bewear.png"
+      "url": "https://cordex-be.onrender.com/images/bewear.png"
     },
     {
       "id": 761,
       "name": "bounsweet",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/bounsweet.png"
+      "url": "https://cordex-be.onrender.com/images/bounsweet.png"
     },
     {
       "id": 762,
       "name": "steenee",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/steenee.png"
+      "url": "https://cordex-be.onrender.com/images/steenee.png"
     },
     {
       "id": 763,
       "name": "tsareena",
       "types": ["grass"],
-      "url": "http://localhost:5000/images/tsareena.png"
+      "url": "https://cordex-be.onrender.com/images/tsareena.png"
     },
     {
       "id": 764,
       "name": "comfey",
       "types": ["fairy"],
-      "url": "http://localhost:5000/images/comfey.png"
+      "url": "https://cordex-be.onrender.com/images/comfey.png"
     },
     {
       "id": 765,
       "name": "oranguru",
       "types": ["normal", "psychic"],
-      "url": "http://localhost:5000/images/oranguru.png"
+      "url": "https://cordex-be.onrender.com/images/oranguru.png"
     },
     {
       "id": 766,
       "name": "passimian",
       "types": ["fighting"],
-      "url": "http://localhost:5000/images/passimian.png"
+      "url": "https://cordex-be.onrender.com/images/passimian.png"
     },
     {
       "id": 767,
       "name": "wimpod",
       "types": ["bug", "water"],
-      "url": "http://localhost:5000/images/wimpod.png"
+      "url": "https://cordex-be.onrender.com/images/wimpod.png"
     },
     {
       "id": 768,
       "name": "golisopod",
       "types": ["bug", "water"],
-      "url": "http://localhost:5000/images/golisopod.png"
+      "url": "https://cordex-be.onrender.com/images/golisopod.png"
     },
     {
       "id": 769,
       "name": "sandygast",
       "types": ["ghost", "ground"],
-      "url": "http://localhost:5000/images/sandygast.png"
+      "url": "https://cordex-be.onrender.com/images/sandygast.png"
     },
     {
       "id": 770,
       "name": "palossand",
       "types": ["ghost", "ground"],
-      "url": "http://localhost:5000/images/palossand.png"
+      "url": "https://cordex-be.onrender.com/images/palossand.png"
     },
     {
       "id": 771,
       "name": "pyukumuku",
       "types": ["water"],
-      "url": "http://localhost:5000/images/pyukumuku.png"
+      "url": "https://cordex-be.onrender.com/images/pyukumuku.png"
     },
     {
       "id": 772,
       "name": "type-null",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/type-null.png"
+      "url": "https://cordex-be.onrender.com/images/type-null.png"
     },
     {
       "id": 773,
       "name": "silvally",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/silvally.png"
+      "url": "https://cordex-be.onrender.com/images/silvally.png"
     },
     {
       "id": 774,
       "name": "minior-meteor",
       "types": ["rock", "flying"],
-      "url": "http://localhost:5000/images/minior-meteor.png"
+      "url": "https://cordex-be.onrender.com/images/minior-meteor.png"
     },
     {
       "id": 775,
       "name": "komala",
       "types": ["normal"],
-      "url": "http://localhost:5000/images/komala.png"
+      "url": "https://cordex-be.onrender.com/images/komala.png"
     },
     {
       "id": 776,
       "name": "turtonator",
       "types": ["fire", "dragon"],
-      "url": "http://localhost:5000/images/turtonator.png"
+      "url": "https://cordex-be.onrender.com/images/turtonator.png"
     },
     {
       "id": 777,
       "name": "togedemaru",
       "types": ["electric", "steel"],
-      "url": "http://localhost:5000/images/togedemaru.png"
+      "url": "https://cordex-be.onrender.com/images/togedemaru.png"
     },
     {
       "id": 778,
       "name": "mimikyu",
       "types": ["ghost", "fairy"],
-      "url": "http://localhost:5000/images/mimikyu.png"
+      "url": "https://cordex-be.onrender.com/images/mimikyu.png"
     },
     {
       "id": 779,
       "name": "bruxish",
       "types": ["water", "psychic"],
-      "url": "http://localhost:5000/images/bruxish.png"
+      "url": "https://cordex-be.onrender.com/images/bruxish.png"
     },
     {
       "id": 780,
       "name": "drampa",
       "types": ["normal", "dragon"],
-      "url": "http://localhost:5000/images/drampa.png"
+      "url": "https://cordex-be.onrender.com/images/drampa.png"
     },
     {
       "id": 781,
       "name": "dhelmise",
       "types": ["ghost", "grass"],
-      "url": "http://localhost:5000/images/dhelmise.png"
+      "url": "https://cordex-be.onrender.com/images/dhelmise.png"
     },
     {
       "id": 782,
       "name": "jangmo-o",
       "types": ["dragon"],
-      "url": "http://localhost:5000/images/jangmo-o.png"
+      "url": "https://cordex-be.onrender.com/images/jangmo-o.png"
     },
     {
       "id": 783,
       "name": "hakamo-o",
       "types": ["dragon", "fighting"],
-      "url": "http://localhost:5000/images/hakamo-o.png"
+      "url": "https://cordex-be.onrender.com/images/hakamo-o.png"
     },
     {
       "id": 784,
       "name": "kommo-o",
       "types": ["dragon", "fighting"],
-      "url": "http://localhost:5000/images/kommo-o.png"
+      "url": "https://cordex-be.onrender.com/images/kommo-o.png"
     },
     {
       "id": 785,
       "name": "tapu-koko",
       "types": ["electric", "fairy"],
-      "url": "http://localhost:5000/images/tapu-koko.png"
+      "url": "https://cordex-be.onrender.com/images/tapu-koko.png"
     },
     {
       "id": 786,
       "name": "tapu-lele",
       "types": ["psychic", "fairy"],
-      "url": "http://localhost:5000/images/tapu-lele.png"
+      "url": "https://cordex-be.onrender.com/images/tapu-lele.png"
     },
     {
       "id": 787,
       "name": "tapu-bulu",
       "types": ["grass", "fairy"],
-      "url": "http://localhost:5000/images/tapu-bulu.png"
+      "url": "https://cordex-be.onrender.com/images/tapu-bulu.png"
     },
     {
       "id": 788,
       "name": "tapu-fini",
       "types": ["water", "fairy"],
-      "url": "http://localhost:5000/images/tapu-fini.png"
+      "url": "https://cordex-be.onrender.com/images/tapu-fini.png"
     },
     {
       "id": 789,
       "name": "cosmog",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/cosmog.png"
+      "url": "https://cordex-be.onrender.com/images/cosmog.png"
     },
     {
       "id": 790,
       "name": "cosmoem",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/cosmoem.png"
+      "url": "https://cordex-be.onrender.com/images/cosmoem.png"
     },
     {
       "id": 791,
       "name": "solgaleo",
       "types": ["psychic", "steel"],
-      "url": "http://localhost:5000/images/solgaleo.png"
+      "url": "https://cordex-be.onrender.com/images/solgaleo.png"
     },
     {
       "id": 792,
       "name": "lunala",
       "types": ["psychic", "ghost"],
-      "url": "http://localhost:5000/images/lunala.png"
+      "url": "https://cordex-be.onrender.com/images/lunala.png"
     },
     {
       "id": 793,
       "name": "nihilego",
       "types": ["rock", "poison"],
-      "url": "http://localhost:5000/images/nihilego.png"
+      "url": "https://cordex-be.onrender.com/images/nihilego.png"
     },
     {
       "id": 794,
       "name": "buzzwole",
       "types": ["bug", "fighting"],
-      "url": "http://localhost:5000/images/buzzwole.png"
+      "url": "https://cordex-be.onrender.com/images/buzzwole.png"
     },
     {
       "id": 795,
       "name": "pheromosa",
       "types": ["bug", "fighting"],
-      "url": "http://localhost:5000/images/pheromosa.png"
+      "url": "https://cordex-be.onrender.com/images/pheromosa.png"
     },
     {
       "id": 796,
       "name": "xurkitree",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/xurkitree.png"
+      "url": "https://cordex-be.onrender.com/images/xurkitree.png"
     },
     {
       "id": 797,
       "name": "celesteela",
       "types": ["steel", "flying"],
-      "url": "http://localhost:5000/images/celesteela.png"
+      "url": "https://cordex-be.onrender.com/images/celesteela.png"
     },
     {
       "id": 798,
       "name": "kartana",
       "types": ["grass", "steel"],
-      "url": "http://localhost:5000/images/kartana.png"
+      "url": "https://cordex-be.onrender.com/images/kartana.png"
     },
     {
       "id": 799,
       "name": "guzzlord",
       "types": ["dark", "dragon"],
-      "url": "http://localhost:5000/images/guzzlord.png"
+      "url": "https://cordex-be.onrender.com/images/guzzlord.png"
     },
     {
       "id": 800,
       "name": "necrozma",
       "types": ["psychic"],
-      "url": "http://localhost:5000/images/necrozma.png"
+      "url": "https://cordex-be.onrender.com/images/necrozma.png"
     },
     {
       "id": 801,
       "name": "magearna",
       "types": ["steel", "fairy"],
-      "url": "http://localhost:5000/images/magearna.png"
+      "url": "https://cordex-be.onrender.com/images/magearna.png"
     },
     {
       "id": 802,
       "name": "marshadow",
       "types": ["fighting", "ghost"],
-      "url": "http://localhost:5000/images/marshadow.png"
+      "url": "https://cordex-be.onrender.com/images/marshadow.png"
     },
     {
       "id": 803,
       "name": "poipole",
       "types": ["poison"],
-      "url": "http://localhost:5000/images/poipole.png"
+      "url": "https://cordex-be.onrender.com/images/poipole.png"
     },
     {
       "id": 804,
       "name": "naganadel",
       "types": ["poison", "dragon"],
-      "url": "http://localhost:5000/images/naganadel.png"
+      "url": "https://cordex-be.onrender.com/images/naganadel.png"
     },
     {
       "id": 805,
       "name": "stakataka",
       "types": ["rock", "steel"],
-      "url": "http://localhost:5000/images/stakataka.png"
+      "url": "https://cordex-be.onrender.com/images/stakataka.png"
     },
     {
       "id": 806,
       "name": "blacephalon",
       "types": ["fire", "ghost"],
-      "url": "http://localhost:5000/images/blacephalon.png"
+      "url": "https://cordex-be.onrender.com/images/blacephalon.png"
     },
     {
       "id": 807,
       "name": "zeraora",
       "types": ["electric"],
-      "url": "http://localhost:5000/images/zeraora.png"
+      "url": "https://cordex-be.onrender.com/images/zeraora.png"
     },
     {
       "id": 808,
       "name": "meltan",
       "types": ["steel"],
-      "url": "http://localhost:5000/images/meltan.png"
+      "url": "https://cordex-be.onrender.com/images/meltan.png"
     },
     {
       "id": 809,
       "name": "melmetal",
       "types": ["steel"],
-      "url": "http://localhost:5000/images/melmetal.png"
+      "url": "https://cordex-be.onrender.com/images/melmetal.png"
     }
   ],
   "totalPokemons": 809
