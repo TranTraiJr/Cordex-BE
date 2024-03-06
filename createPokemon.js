@@ -17,7 +17,7 @@ const createPokemon = async () => {
         pokemon.Type1.toLowerCase(),
         ...(pokemon.Type2 ? [pokemon.Type2.toLowerCase()] : []),
       ],
-      url: `http://localhost:5000/images/${pokemon.Name}.png`,
+      url: `https://cordex-be.onrender.com/images/${pokemon.Name}.png`,
     };
   });
 
